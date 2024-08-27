@@ -6,7 +6,7 @@
             <span class="navbar-toggler-icon"></span>
         </button>
 
-        <div class="collapse navbar-collapse justify-content-end" id="navbarNavDropdown">
+        <div class="collapse navbar-collapse justify-content-center" id="navbarNavDropdown">
 
             <ul class="navbar-nav">
                 <li class="nav-item">
