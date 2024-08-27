@@ -1,3 +1,11 @@
 @import 'bootstrap';
 @import '/resources/css/style.css';
 @import "@fortawesome/fontawesome-free/css/all.css";
+
+@font-face {
+    font-family: 'TimesNewRoman';
+    src: url('{{ asset(' fonts/TimesNewRoman/timesNewRoman.ttf') }}') format('ttf'),
+    url('{{ asset(' fonts/TimesNewRoman/timesNewRoman.ttf') }}') format('ttf');
+    font-weight: normal;
+    font-style: normal;
+}
