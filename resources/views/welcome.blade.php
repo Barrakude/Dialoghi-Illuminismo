@@ -30,9 +30,10 @@
                 {{-- altra immagine con altra descrizione --}}
                 <div class="container mt-5 mb-5 box">
                     <div class="row">
-                        <div class="col-md-6">
-                            <img class="p-3" src="{{ asset('images/candide2.jpg') }}" alt="Esempio di Immagine"
-                                class="image-frame">
+                        <div class="col-md-6 image-container">
+                            <img class="p-3"
+                                src="{{ asset('images//buon selvaggio\Henri JF Rousseau - Exotic landscape - (MeisterDrucke-262893).jpg') }}"
+                                alt="Esempio di Immagine" class="image-frame">
                         </div>
                         <div class="col-md-6 my-5 image-description">
 
