@@ -8,8 +8,9 @@
                 {{-- immagine e descrizione --}}
                 <div class="container mt-5 mb-5 box">
                     <div class="row">
-                        <div class="col-md-6">
-                            <img class="my-5 mx-5" class="my-5 mx-5" src="{{ asset('images/candide1.jpg') }}"
+                        <div class="col-md-6 image-container">
+                            <img class="p-3"
+                                src="{{ asset('images/JamesGillray_JohnBullTakingALuncheonOrBritishCooksCrammingOldGr_(MeisterDrucke_257939).jpg') }}"
                                 alt="Descrizione dell'immagine">
 
                         </div>
@@ -30,16 +31,17 @@
                 <div class="container mt-5 mb-5 box">
                     <div class="row">
                         <div class="col-md-6">
-                            <img class="my-5 mx-5" class="my-5 mx-5" src="{{ asset('images/candide2.jpg') }}"
-                                alt="Esempio di Immagine" class="image-frame">
+                            <img class="p-3" src="{{ asset('images/candide2.jpg') }}" alt="Esempio di Immagine"
+                                class="image-frame">
                         </div>
                         <div class="col-md-6 my-5 image-description">
 
                             <h2>Dialettica, Natura e Cultura</h2>
-                            <p>Questa è una descrizione dell'immagine. Puoi aggiungere qualsiasi testo qui per
-                                descrivere l'immagine accanto. Utilizza HTML e CSS per personalizzare ulteriormente
-                                lo
-                                stile e il layout secondo le tue esigenze.</p>
+                            <p>Raccogliendo l'eredità del pensiero critico tardo-cinquecentesco e secentesco, di quei
+                                filoni tematici che vanno da Montaigne a Bayle, la riflessione degli illuministi dà
+                                impulso ad un ampio dibattito, che trova nella dialettica natura/cultura il proprio
+                                fulcro problematico. </p>
+                            <a href="{{ route('dialetticaNaturaCultura') }}">Continua a leggere</a>
                         </div>
 
                     </div>
@@ -49,7 +51,7 @@
                 <div class="container mt-5 mb-5 box">
                     <div class="row">
                         <div class="col-md-6">
-                            <img class="my-5 mx-5" src="{{ asset('images/candide3.jpg') }}" alt="Esempio di Immagine"
+                            <img class="p-3" src="{{ asset('images/candide3.jpg') }}" alt="Esempio di Immagine"
                                 class="image-frame">
                         </div>
                         <div class="col-md-6 my-5 image-description">
