@@ -51,15 +51,14 @@
                 {{-- immagine e descrizione --}}
                 <div class="container mt-5 mb-5 box">
                     <div class="row">
-                        <div class="col-md-6">
-                            <img class="p-3" src="{{ asset('images/candide3.jpg') }}" alt="Esempio di Immagine"
+                        <div class="col-md-6 image-container">
+                            <img class="p-3 image-frame" src="{{ asset('https://www.radiofrance.fr/s3/cruiser-production/2022/06/b3af3dd2-1ca9-409d-b36f-fa1cced3c79e/1200x680_sans-titre-16.jpg') }}" alt="Esempio di Immagine"
                                 class="image-frame">
                         </div>
                         <div class="col-md-6 my-5 image-description">
                             <h2>Mito del Buon Selvaggio</h2>
-                            <p>Questa è una descrizione dell'immagine. Puoi aggiungere qualsiasi testo qui per
-                                descrivere l'immagine accanto. Utilizza HTML e CSS per personalizzare ulteriormente lo
-                                stile e il layout secondo le tue esigenze.</p>
+                            <p>Ampiamente diffuso nel Settecento, il mito del buon selvaggio ha una duplice derivazione classica e biblica, richiamando sia gli archetipi dell'Eden primitivo, del paradiso terrestre, sia quelli dell'età dell'oro. La letteratura moderna, tra Cinquecento e Settecento, ne dà una lettura originale, arricchendone i contenuti fino ad esprimere con grande slancio utopistico, l'ideale di un'integrazione tra culture lontane</p>
+                                <a href="{{ route('mitoDelBuonSelvaggio') }}">Continua a leggere</a>
                         </div>
                     </div>
                 </div>

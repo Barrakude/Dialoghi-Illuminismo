@@ -3,17 +3,24 @@
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\ArticleController;
 
-Route::get('/', function () {
-    return view('welcome');
-});
+// Rotta principale
+Route::get('/', fn() => view('welcome'))->name('home');
 
-Route::get('/article/', [ArticleController::class, 'show'])->name('article.show');
+// Rotta per visualizzare un articolo
+Route::get('/article', [ArticleController::class, 'show'])->name('article.show');
 
+// Rotte per le varie pagine
+$pages = [
+    'genereSatirico' => 'genereSatirico',
+    'dialetticaNaturaCultura' => 'dialetticaNaturaCultura',
+    'mitoDelBuonSelvaggio' => 'mitoDelBuonSelvaggio',
+    'laQuestioneFemminile' => 'laQuestioneFemminile',
+    'felicitàVirtù' => 'felicitàVirtù',
+    'laFiguraDellaDonnaSettecento' => 'laFiguraDellaDonnaSettecento',
+    'IlRaccontoFilosofico' => 'IlRaccontoFilosofico',
+    'illusioneRealtà' => 'illusioneRealtà'
+];
 
-Route::get('/genereSatirico', function(){ 
-    return view('genereSatirico');
-})->name('genereSatirico');
-
-Route::get('/dialetticaNaturaCultura', function(){ 
-    return view('dialetticaNaturaCultura');
-})->name('dialetticaNaturaCultura');
+foreach ($pages as $name => $view) {
+    Route::get("/$view", fn() => view($view))->name($name);
+}
