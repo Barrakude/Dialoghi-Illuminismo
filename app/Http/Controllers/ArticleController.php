@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers;
 
+use App\Models\Article;
 use Illuminate\Http\Request;
 use App\Http\Controllers\Controller;
 
@@ -11,7 +12,6 @@ class ArticleController extends Controller
 {
     $article = Article::find($id);
 
-    $preview = Str::limit($article->content, 300); // Limita a 300 caratteri
     return view('article.show', compact('article'));
 }
 
