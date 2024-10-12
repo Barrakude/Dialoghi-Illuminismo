@@ -9,7 +9,7 @@ Route::get('/', fn() => view('welcome'))->name('home');
 // Rotta per visualizzare un articolo
 Route::get('/article', [ArticleController::class, 'show'])->name('article.show');
 
-// Rotte per le varie pagine
+// Definizione delle pagine
 $pages = [
     'genereSatirico' => 'genereSatirico',
     'dialetticaNaturaCultura' => 'dialetticaNaturaCultura',
@@ -18,9 +18,17 @@ $pages = [
     'felicitàVirtù' => 'felicitàVirtù',
     'laFiguraDellaDonnaSettecento' => 'laFiguraDellaDonnaSettecento',
     'IlRaccontoFilosofico' => 'IlRaccontoFilosofico',
-    'illusioneRealtà' => 'illusioneRealtà'
+    'illusioneRealtà' => 'illusioneRealtà',
+
 ];
 
-foreach ($pages as $name => $view) {
-    Route::get("/$view", fn() => view($view))->name($name);
+// Funzione per generare le rotte dinamicamente
+function createPageRoutes(array $pages)
+{
+    foreach ($pages as $name => $view) {
+        Route::get("/$view", fn() => view($view))->name($name);
+    }
 }
+
+// Creazione delle rotte per le varie pagine
+createPageRoutes($pages);
