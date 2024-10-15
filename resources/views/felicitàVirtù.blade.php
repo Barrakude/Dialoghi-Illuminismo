@@ -11,7 +11,7 @@
                     <div class="image-container">
 
                         <img class=" p-3"
-                            src="{{ asset('images/JamesGillray_JohnBullTakingALuncheonOrBritishCooksCrammingOldGr_(MeisterDrucke_257939).jpg') }}"
+                            src="{{ asset('https://dariodepasquale.it/wp-content/uploads/2019/01/dario-de-pasquale-arte-francisco-goya-danza-bilbao.jpg') }}"
                             alt="Descrizione dell'immagine">
                     </div>
 
@@ -53,7 +53,7 @@
 
                             <div class="image-container">
                                 <img class="p-3"
-                                    src="{{ asset('images/William_Hogarth_-_A_Midnight_Modern_Conversation_Eine_moderne_Mitternachtunterhaltung_1733_-_(MeisterDrucke-803893).jpg') }}"
+                                    src="{{ asset('https://www.meisterdrucke.it/kunstwerke/1260px/Francois%20Louis%20Joseph%20Watteau%20-%20The%20Minuet%20under%20the%20Oak%20Tree%201787%20%20-%20%28MeisterDrucke-68593%29.jpg') }}"
                                     alt="Descrizione dell'immagine">
                             </div>
 
@@ -103,7 +103,7 @@
 
                             <div class="image-container">
                                 <img class="p-3"
-                                    src="{{ asset('images/William_Hogarth_-_A_Midnight_Modern_Conversation_Eine_moderne_Mitternachtunterhaltung_1733_-_(MeisterDrucke-803893).jpg') }}"
+                                    src="{{ asset('https://www.meisterdrucke.it/kunstwerke/1260px/Johann_Zoffany_-_Group_Portrait_of_George_Fitzgerald_with_his_Sons_George_seen_flying_a_Kite_and_-_%28MeisterDrucke-830819%29.jpg') }}"
                                     alt="Descrizione dell'immagine">
                             </div>
 
@@ -150,6 +150,40 @@
                                 francese. I giacobini ne fanno il perno della loro politica dirigista, rivendicando il
                                 primato della «felicità comune» su quella individuale.</p>
 
+
+
+                            <div class="image-container">
+                                <img class="p-3"
+                                    src="{{ asset('https://www.meisterdrucke.it/kunstwerke/1260px/Carle_van_Loo_-_The_Hunt_Lunch_1737_-_%28MeisterDrucke-56683%29.jpg') }}"
+                                    alt="Descrizione dell'immagine">
+                            </div>
+
+
+                            <p class="a">La crisi dell’idea di felicità</p></br>
+                            <p>
+                                Tra la fine dell‘700 e gli inizi dell’800 si fa strada il dubbio che la felicità non sia
+                                il fine ultimo dell’uomo. Maturano nuove antropologie filosofiche (soprattutto nella
+                                cultura tedesca, con Kant e i Romantici), che spingono a considerare questo fine
+                                illusorio (in quanto frutto dell’immaginazione e non della ragione) e indegno (in quanto
+                                troppo basso per le possibilità di perfezionamento insite nella natura umana). Alla
+                                ricerca del piacere che appaga si sostituisce il valore dell’inquietudine, come stimolo
+                                a superare continuamente i propri limiti. La presenza pervasiva del dolore e della noia
+                                nella vita umana (sottolineata, tra gli altri, da Schopenhauer e, per certi aspetti, da
+                                Leopardi) dà altri argomenti all’idea che l’uomo non sia fatto per esser felice. Il tema
+                                sarà sintetizzato da Freud in una sorta di diagnosi definitiva sull’infelicità
+                                necessaria della specie umana, nel Disagio della civiltà. Progressivamente, così, nella
+                                cultura filosofica l’idea di felicità come fine ultimo dell’uomo perde centralità. Oggi
+                                l’edonismo individualistico che sembra dominare nel mondo occidentale evidenzia le
+                                patologie della contemporaneità: la corsa verso felicità immaginarie, misurate su
+                                modelli sociali veicolati dalla pubblicità e dai grandi mezzi di comunicazione, che
+                                invitano ad investire energie continuamente sui propri desideri immediati, sembra
+                                allontanare sempre di più gli uomini dal rapporto con se stessi e con gli altri; e la
+                                caduta delle forme di progettualità comune non sembra poter essere compensata
+                                efficacemente dagli affetti privati e dall’accumulazione di beni da consumare. Nel
+                                frattempo, nel mondo si sono fatte sempre più eclatanti disuguaglianze e miseria,
+                                difficilmente rimuovibili. Di fronte a tutto ciò, la filosofa fatica a trovare strumenti
+                                utili di analisi e con essi nuovi ideali di felicità, privata e pubblica, che
+                                valorizzino quello che di meglio il genere umano potrebbe dare.</p>
 
 
 

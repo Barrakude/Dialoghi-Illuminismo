@@ -16,10 +16,11 @@
                     </div>
 
 
-                    <div class="my-5">
+                    <div class="my-5 p-3">
                         <h2>Il Genere Satirico</h2>
-                        <div class="article-preview">
-                            <p>La satira è nel Settecento un genere molto diffuso. L'ispirazione satirica, la
+                        <div class="article-preview p-3">
+                            <p class="p-3">La satira è nel Settecento un genere molto diffuso. L'ispirazione
+                                satirica, la
                                 derisione e la parodia corrosiva hanno una genealogia antica: Luciano, Petronio,
                                 Orazio e, tra i moderni, è soprattutto la tradizione degli autori
                                 quattro-cinquecenteschi che ispira le figure satiriche. Il registro
@@ -61,8 +62,9 @@
                             </div>
 
 
-                            <p class="a">Procedimenti stilistici della satira</p></br>
-                            <p>
+                            <p class="a p-3">Procedimenti stilistici della satira</p></br>
+                            <p class="p-3">Le diverse retoriche sono accomunate da alcune scelte formali di fondo,
+                                tra queste
                                 Le diverse retoriche sono accomunate da alcune scelte formali di fondo, tra queste
                                 le più frequenti sono:</br>
                                 • Il narratore fittizio. Un procedimento molto usato dai narratori del Settecento è
