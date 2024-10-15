@@ -152,8 +152,8 @@
                 <div class="container mt-5 mb-5 box">
                     <div class="row">
                         <div class="col-md-6 image-container">
-                            <img src="{{ asset('images/gull4.jpg') }}" alt="Esempio di Immagine"
-                                class="image-frame p-3">
+                            <img src="{{ asset('https://www.meisterdrucke.it/kunstwerke/1260px/Franois%20Boucher%20-%20The%20Sleeping%20Shepherdess%20%20-%20%28MeisterDrucke-109370%29.jpg') }}"
+                                alt="Esempio di Immagine" class="image-frame p-3">
                         </div>
                         <div class="col-md-6 my-5 image-description">
                             <h2>Illusione e Realtà</h2>
