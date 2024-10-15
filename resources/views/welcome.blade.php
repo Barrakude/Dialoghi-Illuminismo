@@ -132,14 +132,17 @@
                 <div class="container mt-5 mb-5 box">
                     <div class="row">
                         <div class="col-md-6 image-container">
-                            <img src="{{ asset('images/gull2.jpg') }}" alt="Esempio di Immagine"
-                                class="image-frame p-3">
+                            <img src="{{ asset('https://www.meisterdrucke.it/kunstwerke/1260px/Artus_Scheiner_-_Illustration_for_Gullivers_Travels_by_Jonathan_Swift_-_%28MeisterDrucke-646663%29.jpg') }}"
+                                alt="Esempio di Immagine" class="image-frame p-3">
                         </div>
                         <div class="col-md-6 my-5 image-description">
                             <h2>Il racconto filosofico, saggi orientali, ingenui, giganti e pigmei</h2>
-                            <p>Questa è una descrizione dell'immagine. Puoi aggiungere qualsiasi testo qui per
-                                descrivere l'immagine accanto. Utilizza HTML e CSS per personalizzare ulteriormente lo
-                                stile e il layout secondo le tue esigenze.</p>
+                            <p>Il romanzo illuministico si sviluppa spesso sotto forma di dialogo o in forma epistolare
+                                o con narrazioni brevi a sfondo allegorico. È soprattutto il racconto filosofico lo
+                                strumento espressivo che meglio sviluppa la polemica corrosiva dei Lumi. La sua
+                                originalità comincia dalla forma e cioè dalla parodia delle cronache di viaggio per poi
+                                diventare qualcosa di diverso e di affatto autonomo. In Francia è il “conte
+                                philosophique” il genere più praticato. </p>
                             <a href="{{ route('IlRaccontoFilosofico') }}">Continua a leggere</a>
                         </div>
                     </div>
@@ -154,9 +157,13 @@
                         </div>
                         <div class="col-md-6 my-5 image-description">
                             <h2>Illusione e Realtà</h2>
-                            <p>Questa è una descrizione dell'immagine. Puoi aggiungere qualsiasi testo qui per
-                                descrivere l'immagine accanto. Utilizza HTML e CSS per personalizzare ulteriormente lo
-                                stile e il layout secondo le tue esigenze.</p>
+                            <p>La riflessione sul motivo delle illusioni appartiene all'essenza stessa della letteratura
+                                e tuttavia spetta proprio al secolo dei lumi, il secolo che intende celebrare la
+                                supremazia della ragione, la responsabilità di fornirne una prima definizione articolata
+                                in senso moderno. Fino a questo momento, infatti, l'aspirazione dell'intelligenza umana
+                                a sollevarsi oltre i confini delle verità accertate si era nutrita, pur con intensità e
+                                sensibilità diverse, delle seduzioni fantastiche della mitologia classica o dei messaggi
+                                edificanti dell'immaginario cristiano.</p>
                             <a href="{{ route('illusioneRealtà') }}">Continua a leggere</a>
                         </div>
                     </div>
