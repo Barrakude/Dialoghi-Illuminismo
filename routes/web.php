@@ -2,9 +2,15 @@
 
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\ArticleController;
+use App\Http\Controllers\BiographiesController;
 
 // Rotta principale
 Route::get('/', fn() => view('welcome'))->name('home');
+
+
+Route::get('/home-biographies', [BiographiesController::class, 'homeBiographies'])->name('homeBiographies');
+Route::get('/biographies/{viewName}', [BiographiesController::class, 'show']);
+
 
 // Rotta per visualizzare un articolo
 Route::get('/article', [ArticleController::class, 'show'])->name('article.show');
