@@ -13,8 +13,13 @@
                     <a class="nav-link active" aria-current="page" href="/">Home</a>
                 </li>
                 <li class="nav-item">
+<<<<<<< HEAD
                     <a class="nav-link" href="{{ route('homeBiographies') }}">Biografie</a>
                 </li>
+=======
+                    <a class="nav-link" href="{{'homeBiographies'}}">Biografie</a>
+                </li> 
+>>>>>>> 6d12302153853afcbe98e70c59ac22cf1970adc1
                 <li class="nav-item dropdown">
                     <button class="nav-link dropdown-toggle active" href="#" role="button"
                         data-bs-toggle="dropdown" aria-expanded="false">
@@ -22,7 +27,6 @@
                     </button>
                     <ul class="dropdown-menu">
                         <li><a class="dropdown-item">Biografia</a></li>
-
                         <li><a class="dropdown-item">Contatti</a></li>
                     </ul>
                 </li>

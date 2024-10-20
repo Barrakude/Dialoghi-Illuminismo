@@ -15,8 +15,11 @@ Route::get('/biographies/{viewName}', [BiographiesController::class, 'show']);
 // Rotta per visualizzare un articolo
 Route::get('/article', [ArticleController::class, 'show'])->name('article.show');
 
+
+
 // Definizione delle pagine
 $pages = [
+    'homeBiographies' => 'homeBiographies',
     'genereSatirico' => 'genereSatirico',
     'dialetticaNaturaCultura' => 'dialetticaNaturaCultura',
     'mitoDelBuonSelvaggio' => 'mitoDelBuonSelvaggio',
@@ -28,15 +31,9 @@ $pages = [
 ];
 
 // Funzione per generare le rotte dinamicamente
-function createPageRoutes(array $pages)
-{
-    foreach ($pages as $name => $view) {
-        Route::get("/$view", fn() => view($view))->name($name);
-    }
+foreach ($pages as $route => $view) {
+    Route::get("/{$route}", fn() => view($view))->name($route);
 }
-
-// Creazione delle rotte per le varie pagine
-createPageRoutes($pages);
 
 // Definizione delle pagine nella cartella biographies
 $biographies = [
