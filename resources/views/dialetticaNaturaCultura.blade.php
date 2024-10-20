@@ -16,10 +16,10 @@
                     </div>
 
 
-                    <div class="my-5">
+                    <div class="my-5 p-3">
                         <h2>La legge di natura da Hobbes a Rousseau</h2>
 
-                        <div class="article-preview">
+                        <div class="article-preview p-3">
                             <p>Raccogliendo l'eredità del pensiero critico tardo-cinquecentesco e secentesco, di quei
                                 filoni tematici che vanno da Montaigne a Bayle, la riflessione degli illuministi dà
                                 impulso ad un ampio dibattito, che trova nella dialettica natura/cultura il proprio
@@ -43,8 +43,8 @@
                             </div>
 
 
-                            <p class="a">Opposte visioni</p></br>
-                            <p>
+                            <p class="a p-3">Opposte visioni</p></br>
+                            <p class="p-3">
                                 La discussione si apre su due opposte visioni: un'ipotesi che potremmo definire
                                 hobbesiana per cui l'uomo allo stato di natura sarebbe feroce, pronto alla guerra, ad
                                 aggredire i suoi simili e un'ipotesi di assoluta bontà naturale, di primigenia purezza e
