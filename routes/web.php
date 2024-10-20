@@ -2,6 +2,7 @@
 
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\ArticleController;
+use App\Http\Controllers\HomeController;
 
 // Rotta principale
 Route::get('/', fn() => view('welcome'))->name('home');
@@ -9,8 +10,12 @@ Route::get('/', fn() => view('welcome'))->name('home');
 // Rotta per visualizzare un articolo
 Route::get('/article', [ArticleController::class, 'show'])->name('article.show');
 
+// Rotta per visualizzare le biografie
+Route::get('/home-biographies', [HomeController::class, 'index'])->name('home.biographies');
+
 // Definizione delle pagine
 $pages = [
+    'homeBiographies' => 'homeBiographies',
     'genereSatirico' => 'genereSatirico',
     'dialetticaNaturaCultura' => 'dialetticaNaturaCultura',
     'mitoDelBuonSelvaggio' => 'mitoDelBuonSelvaggio',
@@ -22,15 +27,9 @@ $pages = [
 ];
 
 // Funzione per generare le rotte dinamicamente
-function createPageRoutes(array $pages)
-{
-    foreach ($pages as $name => $view) {
-        Route::get("/$view", fn() => view($view))->name($name);
-    }
+foreach ($pages as $route => $view) {
+    Route::get("/{$route}", fn() => view($view))->name($route);
 }
-
-// Creazione delle rotte per le varie pagine
-createPageRoutes($pages);
 
 // Definizione delle pagine nella cartella biographies
 $biographies = [
