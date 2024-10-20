@@ -55,7 +55,7 @@ $biographies = [
     'defoe' => 'biographies.defoe',
     'foscolo' => 'biographies.foscolo',
     'goethe' => 'biographies.goethe',
-
+    
 ];
 
 // Funzione per generare le rotte per le biografie
