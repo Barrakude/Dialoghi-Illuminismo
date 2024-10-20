@@ -1,5 +1,5 @@
 <?php
-// HomeController.php
+// app/Http/Controllers/HomeController.php
 
 namespace App\Http\Controllers;
 
@@ -10,10 +10,8 @@ class HomeController extends Controller
 {
     public function index()
     {
-        // Ottieni tutte le viste dalla cartella biographies
         $biographiesViews = ViewHelper::getBiographiesViews();
-
-        // Passa le viste alla vista homeBiographies
         return view('homeBiographies', compact('biographiesViews'));
     }
-}
+}        return view('homeBiographies', compact('biographiesViews'));
+    

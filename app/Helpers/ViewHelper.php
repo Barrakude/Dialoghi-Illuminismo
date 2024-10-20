@@ -3,17 +3,17 @@
 
 namespace App\Helpers;
 
+use Illuminate\Support\Facades\File;
+
 class ViewHelper
 {
     public static function getBiographiesViews()
     {
-        $views = [];
-        $files = glob(resource_path('views/biographies/*.blade.php'));
+        $viewsPath = resource_path('views/biographies/');
+        $files = File::files($viewsPath);
 
-        foreach ($files as $file) {
-            $views[] = basename($file, '.blade.php');
-        }
-
-        return $views;
+        return array_map(function ($file) {
+            return str_replace('.blade', '', pathinfo($file, PATHINFO_FILENAME));
+        }, $files);
     }
 }

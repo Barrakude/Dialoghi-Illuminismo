@@ -1,11 +1,4 @@
 <x-layout>
-<<<<<<< HEAD
-    <h1>Anteprima delle Biografie</h1>
-
-<x-biography-card>
-    
-</x-biography-card>
-=======
     <x-slot name="title">
         Home Biographies
     </x-slot>
@@ -21,5 +14,4 @@
             </li>
         @endforeach
     </ul>
->>>>>>> 6d12302153853afcbe98e70c59ac22cf1970adc1
 </x-layout>
