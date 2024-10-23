@@ -3,7 +3,7 @@
         <div class="row">
             <div class="col-12">
                 <div class="mt-5" style="color:white; display: flex; justify-content: center; align-items: center;">
-                    <h1>Jonathan Swift 1667-1745</h1>
+                    <h1>Voltaire 1694-1778</h1>
                 </div>
                 {{-- immagine e descrizione --}}
                 <div class="container mt-5 mb-5 box">
@@ -16,193 +16,295 @@
 
 
                         <div class="my-5 col">
-                            <h2>L'identità irlandese</h2>
+                            <h2>Il periodo giovanile</h2>
                             <div class="article-preview p-3">
-                                <p class="p-3">Nato a Dublino da genitori di origine inglese, passò l'infanzia in
-                                    Irlanda, dove compì i suoi studi. Si trasferì poi in Inghilterra dove trovò lavoro
-                                    come
-                                    segretario di Sir William Temple, un celebre statista appartenente al partito Whig *
-                                    che
-                                    lo incoraggiò a scrivere le sue prime opere satiriche, dandogli l'incarico di
-                                    redigere
-                                    libelli a sfondo politico. Era una mansione di un certo prestigio, ma
-                                    nell'Inghilterra
-                                    di quegli anni, anche se politicamente avanzata rispetto ad altri paesi europei, i
-                                    privilegi di classe erano imponenti e perciò Swift dovette subire parecchie
-                                    umiliazioni.
-                                    Nel 1694, per raggiungere l'indipendenza economica, prese gli ordini religiosi.</p>
+                                <p class="p-3">François-Marie Arouet nasce a Parigi e viene educato dai padri
+                                    gesuiti. E' poi avviato dal padre, un tesoriere della Camera dei Conti, a studi di
+                                    giurisprudenza e alla carriera legale che lascia ben presto per dedicarsi alla
+                                    letteratura. Approfondisce, grazie agli studi classici, le grandi opere della
+                                    cultura greco-latina e possiede delle lingue moderne una conoscenza superiore a
+                                    quella comunemente diffusa in Francia ai suoi tempi, scrive in inglese, in italiano,
+                                    in latino, in spagnolo e in tedesco. Inizia scrivendo dei versi che lo rendono
+                                    celebre, ma, nel 1717, in seguito alla pubblicazione di poemi satirici polemici nei
+                                    riguardi del reggente, viene imprigionato una prima volta alla Bastiglia, dove
+                                    prende lo pseudonimo di Voltaire. Riporta i suoi primi successi con la tragedia
+                                    Edipo (1718), e con poemi di carattere epico; ma una nuova condanna lo segnerà
+                                    profondamente. A causa di una sua imprudente risposta ad un aristocratico, il
+                                    cavaliere di Rohan, viene bastonato dai domestici del cavaliere e nuovamente
+                                    imprigionato, prima di essere esiliato in Inghilterra.i religiosi.</p>
                             </div>
                         </div>
 
-                        <h2>Lo spirito satirico</h2>
+                        <h2>L’erudito militante e le persecuzioni della censura</h2>
                         <div class="article-preview p-3">
-                            <p class="p-3">Nella casa di Temple conobbe Esther Johnson, una giovane donna,
-                                che Swift chiamò "Stella" e che avrebbe ispirato più tardi uno dei suoi scritti.
-                                Tra il 1708 e il 1714 fu soprattutto a Londra dove conobbe Pope, e Gay (John Gay
-                                (1685-1732) è scrittore e polemista di grande talento, scrisse satire e parodie
-                                dei generi poetici alla moda; ma il suo capolavoro è considerato L'opera del
-                                mendicante (1728), in cui, parodiando il melodramma, dà una rappresentazione
-                                della vita dei poveri e degli emarginati nei bassifondi londinesi. E' a
-                                quest'opera che si ispirerà B. Brecht nella sua Opera da tre soldi) con cui
-                                fondò lo Scriblerus Club un celebre circolo letterario londinese nel cui ambito
-                                nacquero le satire collettive, e le maggiori opere satiriche del periodo
-                                cosiddetto “augusteo” –dai Viaggi di Gulliver, all’ Opera del mendicante, a
-                                Dunciade di Pope- e dove esercitò il suo talento di severo polemista. Alla morte
-                                della regina Anna, il Club si sciolse, ma lo spirito satirico sopravvisse nelle
-                                opere successive dei suoi membri. Come molti letterati del periodo fu impegnato
-                                nella battaglia politica tra Whigs e Tories. Dapprima fu sostenitore dei Whigs,
-                                ma nel 1710, in parte deluso nelle sue aspettative di carriera politica, in
-                                parte disgustato da certe scelte del partito, passò ai Tories, che sostennero il
-                                suo impegno in favore della Chiesa Irlandese Anglicana. Scrisse molto per
-                                l'amministrazione Tory in questi anni, attaccando dalle pagine del giornale "The
-                                Examiner", che egli stesso dirigeva, la reputazione di molti ministri Whig. La
-                                chiarezza e la violenza con cui formulò le critiche contribuì enormemente a
-                                rafforzare l'adesione dell'opinione pubblica ai Tories.
+                            <p class="p-3">Durante il suo soggiorno in Inghilterra, dal 1726 al 1728, entra in
+                                contatto con gli eruditi Pope , Swift, Gay e con le loro idee di rinnovamento
+                                istituzionale e sociale. Studia inoltre la scienza nuova di Newton e Locke.
+                                Da questi numerosi scambi culturali Voltaire trae ispirazione per una delle sue opere di
+                                maggior importanza, le Lettere sugli inglesi prima versione delle Lettere filosofiche,
+                                in cui elogiando la tolleranza politica e religiosa delle istituzioni inglesi, denuncia,
+                                in modo allusivo, ma con determinazione, l’oppressione e le malversazioni cui un potere
+                                irrazionale condanna i sudditi in Francia. La pubblicazione dell'opera in Francia
+                                provoca un nuovo mandato di arresto per il suo autore. Le lettere filosofiche vengono
+                                bruciate sulla pubblica piazza. Voltaire fugge allora in Svizzera e si rifugia poi a
+                                Cirey, nel castello di Mme du Châtelet, un’amica con cui condivide la passione per le
+                                lettere e le scienze e che con lui collabora ad un' opera di divulgazione della
+                                filosofia e della scienza newtoniana: gli Elementi della filosofia di Newton (1737).
                             </p>
-                            <h2>Il ritorno in Irlanda</h2>
+                            <h2>Parigi e Berlino</h2>
                             <div class="article-preview p-3">
-                                <p class="p-3">Nell'aprile del 1713 divenne Decano della cattedrale di S.
-                                    Patrick a Dublino, dove rimase per i successivi trent'anni. Benché il
-                                    carattere aspro e misantropo lo portasse spesso a detestare anche coloro che
-                                    difendeva, assunse decise posizioni politiche in difesa degli Irlandesi
-                                    contro le vessazioni e gli abusi dell'amministrazione inglese . A seguito
-                                    della morte di "Stella" e di Esther Vanhomriger, un'altra donna importante
-                                    nella vita dello scrittore, adombrata nella sua opera sotto il nome di
-                                    "Vanessa", Swift cadde in uno stato di profonda malinconia, l'abbandono e il
-                                    senso d'isolamento crebbero in lui a tal punto da condurlo alla follia.
+                                <p class="p-3">Ritornato a Parigi, Voltaire prende a svolgere un'intensa attività di
+                                    storico oltre che di scrittore. Grazie all’intercessione di Madame de Pompadour,
+                                    favorita di Luigi XV, Voltaire viene nominato storiografo del Re. Egli non abbandona
+                                    lo spirito arguto e corrosivo, le sue critiche rivolte alla corte sono ritenute
+                                    ingiuriose, Voltaire è costretto a fuggire da Parigi. Il racconto filosofico Zadig
+                                    (1748), sembra tradurre l’amarezza delle sue esperienze e disavventure di
+                                    cortigiano. Troppo geloso della sua indipendenza e libertà di giudizio per andare
+                                    d’accordo con i suoi potenti mecenati, cadrà in disgrazia anche alla corte berlinese
+                                    di Federico II, sovrano “illuminato". Un’opera di riflessione storiografica, Il
+                                    Secolo di Luigi XIV, e Micromégas, un racconto filosofico ispirato ai Viaggi di
+                                    Gulliver dell’irlandese Swift saranno il frutto di questo periodo. Ma ben presto
+                                    Voltaire, deluso dal falso liberalismo del sovrano, indesiderato tanto a Berlino
+                                    quanto a Parigi, inizierà una vita errante, proprio come il personaggio di Zadig, da
+                                    lui creato. L’amarezza di questo periodo non sembra aver fine: nel 1749 la morte di
+                                    Mme du Châtelet segna la fine di un lungo sodalizio affettivo e intellettuale .
                                 </p>
+                                <h2>Filosofo del progresso</h2>
+                                <div class="article-preview p-3">
+                                    <p class="p-3">Profondamente colpito dal terremoto di Lisbona del 1755, Voltaire
+                                        scrive un poema filosofico, Il poema sul disastro di Lisbona (1756); lo stesso
+                                        anno redige l’articolo “Storia” per L’Encyclopédie. E' di questo periodo il
+                                        Saggio sui costumi e sullo spirito delle nazioni, una rivoluzionaria opera di
+                                        filosofia della storia, in netto contrasto con i principi della tradizione
+                                        religiosa. L'interpretazione laica del "progresso" delle nazioni, individuando
+                                        gli elementi concreti che ne stimolano l'evoluzione culturale e sociale, ribalta
+                                        infatti la visione provvidenzialistica della storia, attribuendo all'uomo la
+                                        responsabilità totale del suo agire. Continua a scrivere racconti filosofici e
+                                        romanzi brevi (celeberrimi: Candido o l'ottimismo, 1759, e L'ingenuo, 1767), che
+                                        egli considera come generi adatti all'azione filosofica, alla divulgazione delle
+                                        idee, e non come vera arte. Eppure si tratta delle sue opere ancor oggi più
+                                        lette e commentate nel mondo, delle quali si ammira lo stile agile e l'ironia
+                                        sottile.
+                                    </p>
+
+                                    <h2>La lotta filosofica
+
+                                    </h2>
+                                    <div class="article-preview p-3">
+                                        <p class="p-3">Dal 1758 al 1778 si stabilisce a Ferney, in una tenuta vicina
+                                            al confine con la Svizzera, un luogo protetto dagli strali del potere. Si
+                                            dedica al miglioramento agricolo del luogo, tanto da essere soprannominato
+                                            “il patriarca di Ferney”. Nel contempo rimane in contatto con gli
+                                            enciclopedisti, redige altri articoli per l'Encyclopédie e moltiplica la sua
+                                            corrispondenza con i primi prìncipi riformatori, quali, ad esempio, Caterina
+                                            II di Russia.
+                                        </p>
+                                        <h2>Voltaire e Beccaria
+                                        </h2>
+                                        <div class="article-preview p-3">
+                                            <p class="p-3">L'impegno politico, le numerose opere di intervento
+                                                militante fanno di Voltaire uno dei primi grandi difensori dei diritti
+                                                umani e civili. Egli utilizza la sua conoscenza delle leggi per
+                                                combattere il fanatismo religioso e politico, si fa cronista, tribuno,
+                                                mette la sua penna al servizio delle vittime dell’intolleranza. Il più
+                                                appassionato intervento dello scrittore militante è del 1765 ed è
+                                                conosciuto come l' “affaire Calas”, un caso giudiziario in cui Jean
+                                                Calas, un negoziante calvinista di Tolosa, ingiustamente accusato di
+                                                aver ucciso suo figlio, che si era convertito al cattolicesimo, subisce
+                                                un processo che, ispirato dall'ostilità dei cattolici, ne decreta la
+                                                condanna a morte (1762). Dopo aver scritto il Trattato sulla tolleranza
+                                                (1763), un'opera fondamentale, che è anche un'aspra requisitoria contro
+                                                i crimini del fanatismo, Voltaire inizia una vera e propria crociata in
+                                                favore della tolleranza religiosa, difendendo altre vittime
+                                                dell’autoritarismo, sollevando l’indignazione generale, contribuendo a
+                                                creare una coscienza civile.
+                                                L'opera che in questo periodo ha effetti pratici immediati è il
+                                                Commentaire sur le livre “Des délits et des peines”. L'allora quasi
+                                                sconosciuto marchese Cesare Bonesana Beccaria aveva pubblicato nel 1764
+                                                il suo saggio Dei Delitti e delle pene. L'impressione suscitata in
+                                                Europa dall'opera e la vasta eco che Beccarla ne trasse è dovuta al
+                                                commento di Voltaire. Il saggio di Voltaire oltre ad essere un commento
+                                                a Beccaria, è quasi un'operetta a se stante, ispirata alla lettura del
+                                                libro italiano. Le riforme in questo campo progrediscono da allora
+                                                grazie a ciò che Voltaire ebbe a dire della tortura, del castigo,
+                                                dell'eliminazione di eretici, streghe e colpevoli di lesa maestà, della
+                                                pena capitale. Nella conclusione del saggio avanza tutta una serie di
+                                                proteste dettagliate per una vera riforma in Francia, in un'epoca in cui
+                                                era costumanza diffusa la compravendita delle cariche giudiziarie, egli
+                                                suggeriva che ai magistrati si dovesse offrire la possibilità di far
+                                                carriera secondo i meriti. Il diritto non doveva applicarsi
+                                                differentemente nelle diverse zone del paese. Un'altra opera di lotta
+                                                ideologica oltre che di divulgazione delle idee illuministiche è Il
+                                                Dizionario filosofico (1764). Voltaire ritorna a Parigi nel 1778, anno
+                                                in cui morirà, conservando intatti senso critico e sensibilità sociale
+                                                fino all’ ultimo giorno di vita, tanto da essere ormai considerato come
+                                                la “coscienza d’Europa”.
+                                            </p>
 
 
 
+                                        </div>
 
-                            </div>
-
-                        </div>
-                    </div>
-                    <div class="image-container">
-                        <img class=" p-3"
-                            src="{{ asset('https://www.meisterdrucke.it/kunstwerke/1260px/Jehan_Georges_Vibert_-_Gulliver_and_the_Lilliputians_-_%28MeisterDrucke-723869%29.jpg') }}"
-                            alt="Descrizione dell'immagine">
-                    </div>
-
-
-                    <div class="my-5 p-3">
-                        <h2>L'Opera</h2>
-                        <div class="article-preview p-3">
-                            <h3>La battaglia dei libri 1697</h3>
-                            <p class="p-3">È una satira in prosa in cui, descrivendo la battaglia, all'interno di una
-                                biblioteca, tra libri antichi e moderni, terminata con la vittoria dei primi, Swift
-                                interviene a favore degli scrittori antichi in una celebre controversia del tempo, che
-                                aveva opposto gli scrittori antichi ai moderni, suscitando in Europa vivaci discussioni
-                                (Iniziata nel Seicento e protrattasi per tutto il secolo seguente, la controversia passò
-                                alla storia con la definizione francese di "Querelle des Anciens et des Modernes", e
-                                oppose gli autori che sostenevano l'idea di progresso e quindi la superiorità degli
-                                scrittori moderni sugli antichi, a coloro che ritenevano che gli antichi avessero
-                                raggiunto i massimi vertici in ogni campo del sapere e fossero per questo insuperabili).
-                            </p>
-                        </div>
-                        <h3>Favola della botte 1704</h3>
-                        <div class="article-preview p-3">
-                            <p class="p-3">È una satira delle varie chiese cristiane, tutte colpevoli,
-                                secondo Swift, di distorsioni del messaggio evangelico, dove sono rappresentati
-                                in forma allegorica gli errori delle chiese Protestante, Cattolica e
-                                Presbiteriana. Quest’opera precluse a Swift la strada del vescovado perché
-                                suscitò il risentimento della Regina Anna, che considerò una provocazione
-                                inaccettabile che fosse messa in ridicolo in modo impietoso la Chiesa Anglicana
-                                con le sue varie filiazioni.
-                            </p>
-                        </div>
-                        <h3>Diario per Stella 1710-13</h3>
-                        <div class="article-preview p-3">
-                            <p class="p-3">L'opera riunisce le lettere scritte a Esther Johnson, compagna
-                                devota e fedele, con la quale pare che Swift avesse contratto un matrimonio
-                                segreto, con l'impegno per entrambi di continuare a vivere in case diverse.
-                            </p>
-                        </div>
-                        <h3>Viaggi di Gulliver 1726</h3>
-                        <div class="article-preview p-3">
-                            <p class="p-3">Lemuel Gulliver, medico di bordo della flotta mercantile britannica,
-                                racconta le sue esperienze ed avventure di viaggio. Dopo un naufragio approda sull'isola
-                                di Lilliput, i cui abitanti sono alti meno di sei pollici, vede la realtà da una
-                                posizione di superiorità, ma viene gradualmente coinvolto negli intrighi di corte ed
-                                alla fine è costretto ad aiutare la popolazione in una guerra contro l'isola nemica di
-                                Blefuscu. Riparte, ma viene abbandonato dai compagni sull'isola di Brobdinag, abitata da
-                                giganti: questa volta l'eroe si trova in una posizione d'inferiorità. Catturato, è
-                                trattato come un cucciolo dai bambini. Ha poi occasione di conversare con il re, che
-                                indaga sugli usi, i governi e la cultura dell'Europa. Gulliver visita poi l'isola
-                                volante di Laputa e la sua capitale Lagado, dove incontra filosofi, storici e
-                                scienziati, che passano la vita tra speculazioni e ricerche assurde, senza raggiungere
-                                nessun risultato pratico. Gli abitanti dell'isola volante sono esseri astratti, pazzi,
-                                crudeli e tristi. La loro ricerca e l'ossessione per la scienza li estranea dal mondo
-                                reale. Gulliver affronta infine l'ultimo viaggio nel paese degli Houyhnhnm, cavalli
-                                intelligenti che si comportano in modo ragionevole, serviti dagli Yahoo, esseri
-                                disgustosi e violenti, simili agli uomini, che agiscono per puro istinto. Pertanto, dopo
-                                un certo tempo, Gulliver cerca di imitare sempre di più i cavalli. Uno dei cavalli
-                                allibisce alla descrizione del suo paese d'origine, l'Inghilterra, degli stratagemmi e
-                                delle menzogne per conquistare il potere, del racconto di battaglie, saccheggi e
-                                massacri, mentre lì, nel paese degli Houyhnhnm, non c'è bisogno di corrompere o adulare,
-                                non ci sono ladri o politicanti, non ci sono seguaci di questo o quel partito.La
-                                delusione provata di fronte al genere umano, rappresentato dagli Yahoo, lo conduce alla
-                                pazzia. I cavalli, d'altra parte, il cui livello di razionalità sembra escludere ogni
-                                capacità di sentimento, non possono soccorrerlo. Ritornato in patria, Gulliver non
-                                riesce a sopportare la compagnia degli esseri umani, che considera rivoltanti e
-                                nauseanti. Decide perciò di vivere nella stalla, tra i nobili animali, che gli ricordano
-                                la vita presso gli Houyhnhnm.
-                                Il romanzo, diviso in quattro parti, si presenta come una lucida satira dei
-                                comportamenti umani, dove avventure fantastiche e paradossi grotteschi vengono trattati
-                                con uno stile sobrio, di classica semplicità, in netto contrasto con l'apparente
-                                bizzarria di cose e situazioni. Proprio la coerenza stilistica, che collega le
-                                esperienze più assurde ad intenzioni “scientifiche”, divulgare le conoscenze che si
-                                possono trarre da un viaggio, suscita nel lettore il sospetto che le assurdità descritte
-                                alludano simbolicamente a concrete realtà sociali.
-                                Valendosi dello schema dei racconti di viaggio che, da oltre un secolo, appassionavano
-                                il pubblico, l'autore critica le istituzioni, le strutture politiche, intellettuali e
-                                morali di una società vuota e corrotta. Inoltre, gli spostamenti di Lemuel Gulliver da
-                                un continente all'altro lo obbligano a riflettere sulla sua presunta centralità rispetto
-                                agli altri esseri viventi: col cambiare delle dimensioni dei mondi che egli percorre,
-                                cambia la proporzione tra i fatti e quindi il giudizio sui fatti stessi. L'umanità,
-                                fatta di lilliputziani o di giganti, è sempre ridicola e abietta nell'orgoglio e nella
-                                vanità che manifesta. L'uso mistificatorio della ragione, una scienza cieca e dogmatica
-                                nelle sue inutili, ma presuntuose scoperte portano a nefaste avventure società
-                                litigiose, rette da potenti corrotti e violenti. Swift allinea uno dopo l'altro i
-                                bersagli della critica. Il pessimismo dello scrittore s'incupisce, senza mai abbandonare
-                                il tono satirico-grottesco della narrazione.
-                            </p>
-                        </div>
-                        <h3>Modest Proposal 1729 (Modesta proposta per impedire che i bimbi dei poveri siano di peso ai
-                            loro genitori)</h3>
-                        <div class="article-preview p-3">
-                            <p class="p-3">Ispirato dalle terribili condizioni che l'autore trovò in Irlanda, quando
-                                vi fece il suo ultimo viaggio nel 1727, questo pamphlet mette in luce l'ipocrisia e la
-                                crudeltà dei politici e delle loro "proposte". Sotto accusa è l'atteggiamento degli
-                                Inglesi verso l'Irlanda, la cui storia, fatta di invasioni, oppressione e di continua
-                                negazione dei diritti più elementari, costituisce una realtà di cui Swift, essendo di
-                                origine irlandese, è drammaticamente consapevole.
-                                La modesta, provocatoria proposta, suggerisce i modi per eliminare il problema della
-                                povertà e della fame, dando da mangiare ai ricchi i bambini dei poveri. Il tono è serio,
-                                l'argomentazione rigorosa e incalzante. Nessun sentimento d'orrore trapela da quella
-                                maschera da filantropo di buon senso con cui Swift tratta il suo soggetto nella finzione
-                                satirica: la miseria è una piaga sociale che deve essere sanata. Ingrassando i bambini
-                                poveri si potrebbe ottenere un'ottima, tenerissima carne, un piatto saporito e
-                                nutriente, davvero apprezzabile anche per gli amici di gusti difficili. L'autore dà
-                                ricette per cucinare la carne umana, ne indica i prezzi sul mercato, suggerisce i metodi
-                                migliori per ingrassare i bambini. L'allegoria macabra, come già in Gulliver , lascia
-                                trapelare il sospetto che "la modesta proposta" voglia indicare i risultati reali,
-                                drammaticamente concreti, cui la mancanza di politiche sociali, o peggio, certe misure
-                                prese dai governi possono davvero condurre. Abbandonando quasi il tono scherzoso che gli
-                                è abituale, Swift affaccia infine suggerimenti di altro piglio: la tassazione degli
-                                Inglesi, che sfruttano le proprietà irlandesi, l'incentivazione dell'industria e delle
-                                esportazioni in Irlanda.
-
-                            </p>
+                                    </div>
+                                </div>
+                                <div class="image-container">
+                                    <img class=" p-3"
+                                        src="{{ asset('https://www.meisterdrucke.it/kunstwerke/1260px/Jehan_Georges_Vibert_-_Gulliver_and_the_Lilliputians_-_%28MeisterDrucke-723869%29.jpg') }}"
+                                        alt="Descrizione dell'immagine">
+                                </div>
 
 
+                                <div class="my-5 p-3">
+                                    <h2>L'Opera</h2>
+                                    <div class="article-preview p-3">
+                                        <h3>La battaglia dei libri 1697</h3>
+                                        <p class="p-3">È una satira in prosa in cui, descrivendo la battaglia,
+                                            all'interno di
+                                            una
+                                            biblioteca, tra libri antichi e moderni, terminata con la vittoria dei
+                                            primi, Swift
+                                            interviene a favore degli scrittori antichi in una celebre controversia del
+                                            tempo,
+                                            che
+                                            aveva opposto gli scrittori antichi ai moderni, suscitando in Europa vivaci
+                                            discussioni
+                                            (Iniziata nel Seicento e protrattasi per tutto il secolo seguente, la
+                                            controversia
+                                            passò
+                                            alla storia con la definizione francese di "Querelle des Anciens et des
+                                            Modernes", e
+                                            oppose gli autori che sostenevano l'idea di progresso e quindi la
+                                            superiorità degli
+                                            scrittori moderni sugli antichi, a coloro che ritenevano che gli antichi
+                                            avessero
+                                            raggiunto i massimi vertici in ogni campo del sapere e fossero per questo
+                                            insuperabili).
+                                        </p>
+                                    </div>
+                                    <h3>Lettere Filosofiche 1734</h3>
+                                    <div class="article-preview p-3">
+                                        <p class="p-3">Quest’opera è considerata il manifesto di quel nuovo secolo
+                                            che comincia a definirsi “il secolo dei Lumi”, di esse è stato scritto che
+                                            furono “ la prima bomba lanciata contro l'Ancien régime”. Con esse inizia
+                                            infatti quella rivoluzione filosofica che dà avvio alla lotta per il
+                                            rinnovamento delle istituzioni, denunciando gli abusi e i privilegi delle
+                                            vecchie classi al potere. Elogiando, senza per altro mai idealizzare, certe
+                                            istituzioni inglesi capaci di garantire le libertà religiose, politiche,
+                                            economiche e civili insieme alla vitalità degli istituti culturali, egli
+                                            muove una severa critica alle istituzioni francesi oppressive e permeate di
+                                            fanatismo. Suo scopo non è tanto quello di porre la questione
+                                            giurisdizionale, quanto di stabilire un “clima di tolleranza” e di
+                                            giustizia, di creare una sensibilità comune e di formare una coscienza
+                                            pubblica attorno a questi valori, invitando l’uomo a non occuparsi della
+                                            città celeste ma a dedicarsi a quella terrestre, per migliorarne le
+                                            condizioni e le concrete possibilità di vita.
+                                        </p>
+                                    </div>
+                                    <h3>Diario per Stella 1710-13</h3>
+                                    <div class="article-preview p-3">
+                                        <p class="p-3">L'opera riunisce le lettere scritte a Esther Johnson, compagna
+                                            devota e fedele, con la quale pare che Swift avesse contratto un matrimonio
+                                            segreto, con l'impegno per entrambi di continuare a vivere in case diverse.
+                                        </p>
+                                    </div>
+                                    <h3>Zadig o il destino 1747</h3>
+                                    <div class="article-preview p-3">
+                                        <p class="p-3">In questo racconto filosofico, Voltaire dà forma romanzesca
+                                            alle esperienze della sua vita e alle sue posizioni teoriche sul valore del
+                                            libero arbitrio e del destino nella vita dell'uomo. Zadig è un giovane
+                                            saggio, colto, sensibile, generoso. Le sue grandi doti lo spingono a cercare
+                                            gratificazioni nel mondo in cui vive, ma un destino avverso delude
+                                            puntualmente le sue attese. L’ invidia, l'ipocrisia, il tradimento, la
+                                            superficialità sono atteggiamenti umani diffusi che egli imparerà a
+                                            conoscere nel corso delle sue peregrinazioni fino a che, al termine del
+                                            romanzo, il protagonista avrà imparato ad adattarsi alle varie situazioni
+                                            che la vita presenta. Egli abbandonerà il ruolo cristallizzato del
+                                            "cortigiano" subalterno e dipende dagli altri da cui tutto si aspetta, per
+                                            diventare un uomo indipendente che antepone l’essere all’apparire
+                                        </p>
+                                    </div>
+                                    <h3>Micromega 1752</h3>
+                                    <div class="article-preview p-3">
+                                        <p class="p-3">In questo conte philosophique, Voltaire mette in scena un
+                                            gigante, originario del pianeta Sirio, che, viaggiando per formarsi ed
+                                            istruirsi in usi, costumi e civiltà diversi dalla propria, tocca i diversi
+                                            punti dell'universo giungendo infine sulle terra. Gli esseri che Micromega
+                                            incontra nel suo itinerario sono tutti significativi ed emblematici, volti
+                                            ad illustrare un'idea, più spesso una critica all'irrazionalità,
+                                            all'assurdità degli umani comportamenti. I "piccoli atomi pensanti", gli
+                                            uomini, gli appaiono i più infelici tra gli esseri poiché presuntuosi ed
+                                            illusi sul loro ruolo nell'universo. Essi non occupano che un'infima
+                                            porzione di "fango", la terra, poca cosa rispetto agli altri mondi, e,
+                                            ciononostante, essi pensano di essere il centro dell'universo, anzi, sono
+                                            fermamente convinti che tutto il creato sia in funzione dell'uomo. Questi
+                                            piccoli esseri sono perpetuamente in guerra tra loro, si distruggono gli uni
+                                            gli altri. I loro scienziati non sono portatori di vera conoscenza, ma
+                                            ciechi fautori di dogmi che sfociano spesso nell'intolleranza, nel disprezzo
+                                            per forme di pensiero altre, i loro intellettuali non sono al servizio del
+                                            bene comune, ma sfoggiano conoscenze vacue e risibili poiché pretenziose e
+                                            fondate tu argomenti metafisici di cui poco si può umanamente capire. Il
+                                            letterato Voltaire che promuove la ragione contro l'intolleranza e il
+                                            fanatismo, evoca qui i limiti del ragionamento umano e contro ogni pretesa
+                                            sistematica e di conoscenza assoluta, termina il racconto con la promessa di
+                                            Micromega di svelare in un grande libro scritto ad intenzione degli esseri
+                                            umani, i segreti dell'universo, ma quando i tronfi accademici apriranno il
+                                            libro, con loro grande sorpresa troveranno pagine bianche...</p>
+                                        <h3>Candido o l'ottimismo 1759</h3>
+                                        <div class="article-preview p-3">
+                                            <p class="p-3">Costruito come un romanzo di formazione, il Candide
+                                                esplora il sentiero, già percorso da Zadig, del giovane che deve
+                                                iniziarsi alla vita, attraverso le dure lezioni dell’esperienza. Il
+                                                racconto è anche un’opera di critica sociale e filosofica che denuncia,
+                                                con uno stile tragicomico, straniante, la crudeltà dell’uomo, la sua
+                                                insensata violenza, proponendo l'assunzione di responsabilità
+                                                individuale come condizione per attuare nella storia un'autentica
+                                                trasformazione della vita associata. Espulso da quello che egli crede un
+                                                piccolo paradiso terrestre, il giovane Candide, credulo e sprovveduto
+                                                inizia le sue peregrinazioni per il mondo, passando da una catastrofe
+                                                all'altra. Capisce infine quanto siano false le teorie del suo maestro,
+                                                il filosofo ottimista Pangloss, che sostiene che questo mondo sia “il
+                                                migliore dei mondi possibili”. Il giovane "metafisico" Candide abbandona
+                                                a poco a poco tutte le illusioni per accettare la realtà e le sue
+                                                limitazioni, raggiungendo la saggezza racchiusa nella frase finale del
+                                                romanzo: “ bisogna coltivare il nostro giardino”. </p>
+                                            <h3>Trattato sulla tolleranza universale 1763</h3>
+                                            <div class="article-preview p-3">
+                                                <p class="p-3">Quest’opera, il cui messaggio resta ancora attuale, ha
+                                                    come scopo la lotta non solo contro i delitti dell’Inquisizione, ma
+                                                    anche, più in generale, contro i crimini dell' integralismo e delle
+                                                    religioni fondamentaliste. Da un lato Voltaire mostra l'ottusità
+                                                    delle società che condannano le differenze di pelle, di cultura, di
+                                                    religione; dall’altro lato propone un nuovo progetto di società e di
+                                                    vita civile i cui fondamenti si riassumono in una parola:
+                                                    tolleranza, parola che Voltaire considera sia sul piano del rapporto
+                                                    fra potere e individuo sia su quello del rispetto reciproco fra
+                                                    individui.</p>
+                                                <h3>Dizionario filosofico 1764</h3>
+                                                <div class="article-preview p-3">
+                                                    <p class="p-3">Appaiono in quest' opera, destinata alla
+                                                        divulgazione del pensiero filosofico, le intenzioni combattive
+                                                        di Voltaire. Attraverso una lucida analisi, egli denuncia i mali
+                                                        della società che impediscono la felicità, il “bonheur” sulla
+                                                        terra. Ma il Dizionario è anche una raccolta di lemmi che
+                                                        analizza le parole non tanto per fissarne le definizioni, quanto
+                                                        per trarne occasione di riflessione, di erudizione, di
+                                                        invettiva, di arguzia. Si presenta come una raccolta di brevi
+                                                        saggi critici sul sapere, sull'umana condizione, sulla storia,
+                                                        che sanno unire la discettazione erudita,alla critica,
+                                                        all'ironia scoppiettante. Non quindi la schedatura sistematica
+                                                        di chi come un entomologo deve sistematizzare descrizioni, ma i
+                                                        Lumi pensanti, la ragione alla ricerca e alla critica di se
+                                                        stessa, le massime di saggezza velate di ironia: "Le opere di
+                                                        filosofia sono fatte solo per i filosofi, e ogni persona per
+                                                        bene deve cercare di essere filosofo senza pretendere di
+                                                        esserlo".</p>
 
 
-                        </div>
 
-                    </div>
-                </div>
-            </div>
-        </div>
+                                                </div>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
 </x-layout>
