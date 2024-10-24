@@ -3,7 +3,7 @@
         <div class="row">
             <div class="col-12">
                 <div class="mt-5" style="color:white; display: flex; justify-content: center; align-items: center;">
-                    <h1>Jonathan Swift 1667-1745</h1>
+                    <h1>Thomas Hobbes 1588-1679</h1>
                 </div>
                 {{-- immagine e descrizione --}}
                 <div class="container mt-5 mb-5 box">
@@ -16,65 +16,83 @@
 
 
                         <div class="my-5 col">
-                            <h2>L'identità irlandese</h2>
+                            <h2>Gli anni della formazione</h2>
                             <div class="article-preview p-3">
-                                <p class="p-3">Nato a Dublino da genitori di origine inglese, passò l'infanzia in
-                                    Irlanda, dove compì i suoi studi. Si trasferì poi in Inghilterra dove trovò lavoro
-                                    come
-                                    segretario di Sir William Temple, un celebre statista appartenente al partito Whig *
-                                    che
-                                    lo incoraggiò a scrivere le sue prime opere satiriche, dandogli l'incarico di
-                                    redigere
-                                    libelli a sfondo politico. Era una mansione di un certo prestigio, ma
-                                    nell'Inghilterra
-                                    di quegli anni, anche se politicamente avanzata rispetto ad altri paesi europei, i
-                                    privilegi di classe erano imponenti e perciò Swift dovette subire parecchie
-                                    umiliazioni.
-                                    Nel 1694, per raggiungere l'indipendenza economica, prese gli ordini religiosi.</p>
+                                <p class="p-3">Thomas Hobbes nasce nel 1588, a Malmesbury. il
+                                    padre è vicario di Westport. La madre è presa dalle doglie proprio nel momento in
+                                    cui la Grande Armada spagnola prende d'assalto la flotta inglese. E' una nascita
+                                    traumatica, egli stesso affermerà di essere stato "gemellato con il terrore".
+                                    Tra il 1603 e il 1608 compie gli studi universitari ad Oxford, e consegue il
+                                    bacellierato nelle arti. Si avvicina alla cultura classica, con la traduzione della
+                                    Medea di Euripide. L'impostazione degli studi universitari, basati sulla tradizione
+                                    scolastica, non gli è congeniale. Manifesterà in molte opere l'avversione per
+                                    Aristotele e per la dottrina scolastica.</p>
                             </div>
                         </div>
 
-                        <h2>Lo spirito satirico</h2>
+                        <h2>La vita culturale a Parigi</h2>
                         <div class="article-preview p-3">
-                            <p class="p-3">Nella casa di Temple conobbe Esther Johnson, una giovane donna,
-                                che Swift chiamò "Stella" e che avrebbe ispirato più tardi uno dei suoi scritti.
-                                Tra il 1708 e il 1714 fu soprattutto a Londra dove conobbe Pope, e Gay (John Gay
-                                (1685-1732) è scrittore e polemista di grande talento, scrisse satire e parodie
-                                dei generi poetici alla moda; ma il suo capolavoro è considerato L'opera del
-                                mendicante (1728), in cui, parodiando il melodramma, dà una rappresentazione
-                                della vita dei poveri e degli emarginati nei bassifondi londinesi. E' a
-                                quest'opera che si ispirerà B. Brecht nella sua Opera da tre soldi) con cui
-                                fondò lo Scriblerus Club un celebre circolo letterario londinese nel cui ambito
-                                nacquero le satire collettive, e le maggiori opere satiriche del periodo
-                                cosiddetto “augusteo” –dai Viaggi di Gulliver, all’ Opera del mendicante, a
-                                Dunciade di Pope- e dove esercitò il suo talento di severo polemista. Alla morte
-                                della regina Anna, il Club si sciolse, ma lo spirito satirico sopravvisse nelle
-                                opere successive dei suoi membri. Come molti letterati del periodo fu impegnato
-                                nella battaglia politica tra Whigs e Tories. Dapprima fu sostenitore dei Whigs,
-                                ma nel 1710, in parte deluso nelle sue aspettative di carriera politica, in
-                                parte disgustato da certe scelte del partito, passò ai Tories, che sostennero il
-                                suo impegno in favore della Chiesa Irlandese Anglicana. Scrisse molto per
-                                l'amministrazione Tory in questi anni, attaccando dalle pagine del giornale "The
-                                Examiner", che egli stesso dirigeva, la reputazione di molti ministri Whig. La
-                                chiarezza e la violenza con cui formulò le critiche contribuì enormemente a
-                                rafforzare l'adesione dell'opinione pubblica ai Tories.
+                            <p class="p-3">Nel 1608 diventa precettore presso la potente famiglia Cavendish, grazie a
+                                cui
+                                compie il primo di una serie di viaggi in Europa. Sono importanti per il suo pensiero
+                                filosofico i contatti con gli studiosi cartesiani e galileiani che ha tramite l'ambiente
+                                culturale dei Cavendish, e poi grazie ai viaggi. Trovatosi a vivere in uno dei più
+                                travagliati periodi della storia inglese -da Carlo I alla rivoluzione del Cromwell- vaga
+                                per l'Europa. Tra il 1610 e il 1613 si reca in Francia e in Italia. Negli anni '20
+                                svolge opera di segretario per Francesco Bacone e tra il 1629 e il 1637 si impegna
+                                nuovamente come precettore.
+                                In questo periodo gli interessi di Hobbes sono prevalentemente umanistici: continua a
+                                studiare i classici, e traduce le Storie la Guerra del Peloponneso di Tucidide. Nel
+                                1630, la scoperta degli Elementi di Euclide segna la svolta nei suoi studi, si
+                                appassiona alla geometria, all'ottica. Nel 1634, entra in contatto con l'ambiente
+                                filosofico parigino che ruota intorno a Marino Mersenne (traduttore di Galileo in
+                                Francia) e a René Descartes e partecipa attivamente al dibattito aperto da Descartes
+                                attorno alla propria metafisica. L'incontro intellettuale decisivo con le scienze della
+                                natura e le scienze matematiche, determina uno spostamento degli interessi di Hobbes
+                                dalla letteratura alla filosofia e alla scienza. E' in questo periodo che si suppone
+                                incontri Galileo Galilei, venendo in contatto con il suo pensiero.
                             </p>
-                            <h2>Il ritorno in Irlanda</h2>
+                            <h2>Tra Inghilterra e Francia</h2>
                             <div class="article-preview p-3">
-                                <p class="p-3">Nell'aprile del 1713 divenne Decano della cattedrale di S.
-                                    Patrick a Dublino, dove rimase per i successivi trent'anni. Benché il
-                                    carattere aspro e misantropo lo portasse spesso a detestare anche coloro che
-                                    difendeva, assunse decise posizioni politiche in difesa degli Irlandesi
-                                    contro le vessazioni e gli abusi dell'amministrazione inglese . A seguito
-                                    della morte di "Stella" e di Esther Vanhomriger, un'altra donna importante
-                                    nella vita dello scrittore, adombrata nella sua opera sotto il nome di
-                                    "Vanessa", Swift cadde in uno stato di profonda malinconia, l'abbandono e il
-                                    senso d'isolamento crebbero in lui a tal punto da condurlo alla follia.
+                                <p class="p-3">Nel 1640, alle soglie della guerra civile, in un clima politico
+                                    segnato dall'acutizzarsi del confronto tra parlamento e corona, abbandona
+                                    l'Inghilterra, temendo che i propri legami con la corte e le proprie convinzioni
+                                    monarchiche lo espongano a rischi, dato che la monarchia Stuart è sempre più invisa.
+                                    Nel 1646 la corte inglese si trasferisce a Parigi e Hobbes viene nominato insegnante
+                                    del Principe di Galles (il futuro Carlo II). Dimora in Francia dal 1640 al 1652.
+                                    E' in Francia che Hobbes compone le sue principali opere filosofiche, stimolato
+                                    anche dal contatto con il circolo di Mersenne. L'opera di maggior spicco del periodo
+                                    è il De cive, stampata a Parigi nel 1642, con il titolo di Elementa philosophiae
+                                    sectio tertia de cive, come terza e ultima sezione di un sistema filosofico di
+                                    teoria generale della natura e di antropologia che verrà completato nel 1657 con la
+                                    pubblicazione del De homine (il De corpore esce nel '55).
+                                    L'opera susciterà vaste polemiche. Le idee del De cive vengono riprese nel Leviatano
+                                    (Leviathan, or the Matter, Form and Power of a common-wealth ecclesiastic and
+                                    civil), il suo capolavoro filosofico e politico. Uscita nel 1651 in lingua inglese e
+                                    stampata a Londra, l'opera costituisce il preludio al ritorno in patria del
+                                    filosofo.
                                 </p>
-
-
-
-
+                            </div>
+                            <h2>Il ritorno</h2>
+                            <div class="article-preview p-3">
+                                <p class="p-3">Il Leviatano suscita immediatamente le reazioni di ambienti politici e
+                                    culturali: da chi lo accusa di essere un'apologia della Monarchia appena sconfitta
+                                    dai parlamentari a chi vede nel testo un'opportunistica operazione di trasformismo
+                                    da parte di Hobbes nei confronti del nuovo leader della scena politica inglese,
+                                    Oliver Cromwell.
+                                    Ma la polemica più aspra è quella scatenata dall'ambiente episcopale, a causa
+                                    soprattutto della terza parte dell'opera, spregiudicata rilettura eterodossa delle
+                                    Scritture, a sostegno della supremazia del potere politico su quello papale.
+                                    Tornato in Inghilterra nel 1651, Hobbes si trova, ancora coinvolto nelle polemiche.
+                                    Gli viene proibito, sotto l'accusa di ateismo, di scrivere qualsiasi cosa in tema di
+                                    etica, e gli sarà impossibile pubblicare in vita il Behemoth. The History of the
+                                    Causes of the Civil Wars of England) l'opera storica sulle guerre civili in
+                                    Inghilterra.
+                                    Negli ultimi anni di vita Hobbes torna agli interessi classici coltivati in
+                                    gioventù, compone un'autobiografia in versi (in latino) e traduce l'Illiade e
+                                    l'Odissea.
+                                    Muore a Hardwick il 3 dicembre 1679
+                                </p>
                             </div>
 
                         </div>
@@ -89,118 +107,57 @@
                     <div class="my-5 p-3">
                         <h2>L'Opera</h2>
                         <div class="article-preview p-3">
-                            <h3>La battaglia dei libri 1697</h3>
-                            <p class="p-3">È una satira in prosa in cui, descrivendo la battaglia, all'interno di una
-                                biblioteca, tra libri antichi e moderni, terminata con la vittoria dei primi, Swift
-                                interviene a favore degli scrittori antichi in una celebre controversia del tempo, che
-                                aveva opposto gli scrittori antichi ai moderni, suscitando in Europa vivaci discussioni
-                                (Iniziata nel Seicento e protrattasi per tutto il secolo seguente, la controversia passò
-                                alla storia con la definizione francese di "Querelle des Anciens et des Modernes", e
-                                oppose gli autori che sostenevano l'idea di progresso e quindi la superiorità degli
-                                scrittori moderni sugli antichi, a coloro che ritenevano che gli antichi avessero
-                                raggiunto i massimi vertici in ogni campo del sapere e fossero per questo insuperabili).
+                            <h3>Il Leviatano 1651</h3>
+                            <p class="p-3">"Leviatano" è la forma italiana del vocabolo ebraico Leviathan, che ha
+                                diverse accezioni. Esso designa infatti sia il cetaceo marino sia il coccodrillo, sia
+                                una figura mitologica di drago, probabilmente un mostro generato dal caos primordiale.
+                                E' in quest'ultima accezione che viene citato da Hobbes, con riferimento alla Bibbia
+                                (Giobbe 40,25 -41,26), in cui l'autore ne parla come di un mostro di invincibile
+                                potenza, di fronte a cui tutti si prostrano e che non ha risparmiato alcuno che abbia
+                                osato opporvisi, simbolo dello stato cui tutti debbono obbedienza.
+                                L'opera si fonda su alcuni semplici presupposti che ispirano tutta la sua costruzione
+                                teorica, e sulla definizione di un modello logico basato sull'opposizione tra stato di
+                                natura e stato civile. Allo stato di natura, che Hobbes ricava dall'indagine sulla
+                                natura umana, vanno riferite tutte quelle situazioni che travalicano l'ordine e la
+                                serenità della pacifica vita associata. Lo stato di natura prevale ogniqualvolta la
+                                ragione non riesca ad imporsi sulla primigenia costituzione animale dell'essere umano.
+                                L'uomo è infatti dominato dall'egoismo e dall'individualismo, il suo agire ha come
+                                principali motori l' appetito o il desiderio, l'avversione o l'odio. La felicità esiste
+                                solo se i nostri desideri si realizzano. Ora l'uomo non vive da solo, ma si trova in
+                                contatto con i suoi simili. Questo fatto produce un perenne stato di concorrenza, di
+                                belligeranza. L'avidità di ciascuno si scontra con l'avidità dell'altro. I sentimenti
+                                dominanti sono la brama di ricchezza, la paura del prossimo, la sfiducia reciproca. Per
+                                questo nessuno ha piena sicurezza della propria vita e dei propri beni. L'eguaglianza
+                                originaria nello stato di natura non è un beato paradiso perduto, ma uno stato in cui
+                                ciascun individuo vive sottomesso al suo istinto di essere asociale e violento,
+                                esclusivamente interessato alla propria autoconservazione ed è per questo caratterizzato
+                                dall'aspro conflitto tra gli esseri umani, dalla lotta di tutti contro tutti (bellum
+                                omnium contra omnes) da cui Hobbes ricava la celebre formula: l'uomo è un lupo per
+                                l'uomo (homo homini lupus).
+                                Un tale stato di conflitto impedisce lo sviluppo economico e il benessere collettivo,non
+                                vi è proprietà stabile di ricchezza, ma una condizione in cui ciascuno è padrone di
+                                quello che può prendere per tutto il tempo in cui lo può tenere.
+                                Per uscire dalla condizione di natura l'uomo deve fare appello in parte alle sue
+                                passioni e in parte alla sua ragione: la paura della morte lo spinge a ricercare la
+                                pace, la ragione lo induce a cercare un accordo con gli altri uomini. Il principio
+                                ispiratore deve essere, secondo Hobbes, la massima evangelica: "non fare agli altri
+                                quello che non vuoi sia fatto a te".
+                                Tuttavia la natura umana è tale da far sì che un semplice accordo non sia rispettato, a
+                                meno che un potere invincibile, visibile e tangibile non costringa con la minaccia di
+                                terribili pene. Gli uomini quindi rinunceranno allo stato di libertà assoluta, per
+                                conferire tale potere ad uno Stato assoluto. In questo modo verrà garantita la pacifica
+                                coesistenza dei cittadini, tutti ugualmente sottoposti ad uno stesso potere. Al sovrano
+                                - sia esso un singolo o un'assemblea - spettano tutti i diritti necessari per il
+                                mantenimento della sicurezza e assume dunque il supremo potere. La sovranità avrà dunque
+                                caratteristiche di irrevocabilità, assolutezza, indivisibilità. L'unico motivo legittimo
+                                accordato al suddito per rifiutare il sovrano ed il suo imperio è riconosciuto da Hobbes
+                                qualora tale imperio metta in pericolo la vita del suddito. A lungo dibattute nel
+                                contesto europeo, le posizioni di Hobbes saranno radicalmente rifiutate dagli
+                                illuministi francesi. (vedi soprattutto <a
+                                    href="reoute{{ 'montesquieu' }}">Montesquieu</a>, <a
+                                    href="route{{ 'rousseau' }}"> Rousseau</a>)
                             </p>
                         </div>
-                        <h3>Favola della botte 1704</h3>
-                        <div class="article-preview p-3">
-                            <p class="p-3">È una satira delle varie chiese cristiane, tutte colpevoli,
-                                secondo Swift, di distorsioni del messaggio evangelico, dove sono rappresentati
-                                in forma allegorica gli errori delle chiese Protestante, Cattolica e
-                                Presbiteriana. Quest’opera precluse a Swift la strada del vescovado perché
-                                suscitò il risentimento della Regina Anna, che considerò una provocazione
-                                inaccettabile che fosse messa in ridicolo in modo impietoso la Chiesa Anglicana
-                                con le sue varie filiazioni.
-                            </p>
-                        </div>
-                        <h3>Diario per Stella 1710-13</h3>
-                        <div class="article-preview p-3">
-                            <p class="p-3">L'opera riunisce le lettere scritte a Esther Johnson, compagna
-                                devota e fedele, con la quale pare che Swift avesse contratto un matrimonio
-                                segreto, con l'impegno per entrambi di continuare a vivere in case diverse.
-                            </p>
-                        </div>
-                        <h3>Viaggi di Gulliver 1726</h3>
-                        <div class="article-preview p-3">
-                            <p class="p-3">Lemuel Gulliver, medico di bordo della flotta mercantile britannica,
-                                racconta le sue esperienze ed avventure di viaggio. Dopo un naufragio approda sull'isola
-                                di Lilliput, i cui abitanti sono alti meno di sei pollici, vede la realtà da una
-                                posizione di superiorità, ma viene gradualmente coinvolto negli intrighi di corte ed
-                                alla fine è costretto ad aiutare la popolazione in una guerra contro l'isola nemica di
-                                Blefuscu. Riparte, ma viene abbandonato dai compagni sull'isola di Brobdinag, abitata da
-                                giganti: questa volta l'eroe si trova in una posizione d'inferiorità. Catturato, è
-                                trattato come un cucciolo dai bambini. Ha poi occasione di conversare con il re, che
-                                indaga sugli usi, i governi e la cultura dell'Europa. Gulliver visita poi l'isola
-                                volante di Laputa e la sua capitale Lagado, dove incontra filosofi, storici e
-                                scienziati, che passano la vita tra speculazioni e ricerche assurde, senza raggiungere
-                                nessun risultato pratico. Gli abitanti dell'isola volante sono esseri astratti, pazzi,
-                                crudeli e tristi. La loro ricerca e l'ossessione per la scienza li estranea dal mondo
-                                reale. Gulliver affronta infine l'ultimo viaggio nel paese degli Houyhnhnm, cavalli
-                                intelligenti che si comportano in modo ragionevole, serviti dagli Yahoo, esseri
-                                disgustosi e violenti, simili agli uomini, che agiscono per puro istinto. Pertanto, dopo
-                                un certo tempo, Gulliver cerca di imitare sempre di più i cavalli. Uno dei cavalli
-                                allibisce alla descrizione del suo paese d'origine, l'Inghilterra, degli stratagemmi e
-                                delle menzogne per conquistare il potere, del racconto di battaglie, saccheggi e
-                                massacri, mentre lì, nel paese degli Houyhnhnm, non c'è bisogno di corrompere o adulare,
-                                non ci sono ladri o politicanti, non ci sono seguaci di questo o quel partito.La
-                                delusione provata di fronte al genere umano, rappresentato dagli Yahoo, lo conduce alla
-                                pazzia. I cavalli, d'altra parte, il cui livello di razionalità sembra escludere ogni
-                                capacità di sentimento, non possono soccorrerlo. Ritornato in patria, Gulliver non
-                                riesce a sopportare la compagnia degli esseri umani, che considera rivoltanti e
-                                nauseanti. Decide perciò di vivere nella stalla, tra i nobili animali, che gli ricordano
-                                la vita presso gli Houyhnhnm.
-                                Il romanzo, diviso in quattro parti, si presenta come una lucida satira dei
-                                comportamenti umani, dove avventure fantastiche e paradossi grotteschi vengono trattati
-                                con uno stile sobrio, di classica semplicità, in netto contrasto con l'apparente
-                                bizzarria di cose e situazioni. Proprio la coerenza stilistica, che collega le
-                                esperienze più assurde ad intenzioni “scientifiche”, divulgare le conoscenze che si
-                                possono trarre da un viaggio, suscita nel lettore il sospetto che le assurdità descritte
-                                alludano simbolicamente a concrete realtà sociali.
-                                Valendosi dello schema dei racconti di viaggio che, da oltre un secolo, appassionavano
-                                il pubblico, l'autore critica le istituzioni, le strutture politiche, intellettuali e
-                                morali di una società vuota e corrotta. Inoltre, gli spostamenti di Lemuel Gulliver da
-                                un continente all'altro lo obbligano a riflettere sulla sua presunta centralità rispetto
-                                agli altri esseri viventi: col cambiare delle dimensioni dei mondi che egli percorre,
-                                cambia la proporzione tra i fatti e quindi il giudizio sui fatti stessi. L'umanità,
-                                fatta di lilliputziani o di giganti, è sempre ridicola e abietta nell'orgoglio e nella
-                                vanità che manifesta. L'uso mistificatorio della ragione, una scienza cieca e dogmatica
-                                nelle sue inutili, ma presuntuose scoperte portano a nefaste avventure società
-                                litigiose, rette da potenti corrotti e violenti. Swift allinea uno dopo l'altro i
-                                bersagli della critica. Il pessimismo dello scrittore s'incupisce, senza mai abbandonare
-                                il tono satirico-grottesco della narrazione.
-                            </p>
-                        </div>
-                        <h3>Modest Proposal 1729 (Modesta proposta per impedire che i bimbi dei poveri siano di peso ai
-                            loro genitori)</h3>
-                        <div class="article-preview p-3">
-                            <p class="p-3">Ispirato dalle terribili condizioni che l'autore trovò in Irlanda, quando
-                                vi fece il suo ultimo viaggio nel 1727, questo pamphlet mette in luce l'ipocrisia e la
-                                crudeltà dei politici e delle loro "proposte". Sotto accusa è l'atteggiamento degli
-                                Inglesi verso l'Irlanda, la cui storia, fatta di invasioni, oppressione e di continua
-                                negazione dei diritti più elementari, costituisce una realtà di cui Swift, essendo di
-                                origine irlandese, è drammaticamente consapevole.
-                                La modesta, provocatoria proposta, suggerisce i modi per eliminare il problema della
-                                povertà e della fame, dando da mangiare ai ricchi i bambini dei poveri. Il tono è serio,
-                                l'argomentazione rigorosa e incalzante. Nessun sentimento d'orrore trapela da quella
-                                maschera da filantropo di buon senso con cui Swift tratta il suo soggetto nella finzione
-                                satirica: la miseria è una piaga sociale che deve essere sanata. Ingrassando i bambini
-                                poveri si potrebbe ottenere un'ottima, tenerissima carne, un piatto saporito e
-                                nutriente, davvero apprezzabile anche per gli amici di gusti difficili. L'autore dà
-                                ricette per cucinare la carne umana, ne indica i prezzi sul mercato, suggerisce i metodi
-                                migliori per ingrassare i bambini. L'allegoria macabra, come già in Gulliver , lascia
-                                trapelare il sospetto che "la modesta proposta" voglia indicare i risultati reali,
-                                drammaticamente concreti, cui la mancanza di politiche sociali, o peggio, certe misure
-                                prese dai governi possono davvero condurre. Abbandonando quasi il tono scherzoso che gli
-                                è abituale, Swift affaccia infine suggerimenti di altro piglio: la tassazione degli
-                                Inglesi, che sfruttano le proprietà irlandesi, l'incentivazione dell'industria e delle
-                                esportazioni in Irlanda.
-
-                            </p>
-
-
-
-
-                        </div>
-
                     </div>
                 </div>
             </div>

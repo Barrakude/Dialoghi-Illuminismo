@@ -3,7 +3,7 @@
         <div class="row">
             <div class="col-12">
                 <div class="mt-5" style="color:white; display: flex; justify-content: center; align-items: center;">
-                    <h1>Jonathan Swift 1667-1745</h1>
+                    <h1>Jean-Jacques Rousseau 1712-1778</h1>
                 </div>
                 {{-- immagine e descrizione --}}
                 <div class="container mt-5 mb-5 box">
@@ -16,66 +16,63 @@
 
 
                         <div class="my-5 col">
-                            <h2>L'identità irlandese</h2>
+                            <h2>Una vita inquieta</h2>
                             <div class="article-preview p-3">
-                                <p class="p-3">Nato a Dublino da genitori di origine inglese, passò l'infanzia in
-                                    Irlanda, dove compì i suoi studi. Si trasferì poi in Inghilterra dove trovò lavoro
-                                    come
-                                    segretario di Sir William Temple, un celebre statista appartenente al partito Whig *
-                                    che
-                                    lo incoraggiò a scrivere le sue prime opere satiriche, dandogli l'incarico di
-                                    redigere
-                                    libelli a sfondo politico. Era una mansione di un certo prestigio, ma
-                                    nell'Inghilterra
-                                    di quegli anni, anche se politicamente avanzata rispetto ad altri paesi europei, i
-                                    privilegi di classe erano imponenti e perciò Swift dovette subire parecchie
-                                    umiliazioni.
-                                    Nel 1694, per raggiungere l'indipendenza economica, prese gli ordini religiosi.</p>
+                                <p class="p-3">Jean-Jacques Rousseau nasce a Ginevra, nel 1712. Sua madre muore
+                                    mettendolo alla luce. Suo padre, discendente di una famiglia di protestanti
+                                    francesi, rifugiati a Ginevra, è un orologiaio dal carattere irrequieto e
+                                    avventuroso. In compagnia di Jean-Jacques legge romanzi e Le vite parallele di
+                                    Plutarco, ma è coinvolto in una rissa e deve lasciare Ginevra. Jean-Jacques è
+                                    dapprima affidato ad uno zio, e quindi al pastore Lambercier che lo terrà per due
+                                    anni a Bossey, un villaggio poco distante da Ginevra. Si apre un periodo cruciale
+                                    per la formazione dell'adolescente Jean-Jacques. Verso la fine della sua vita,
+                                    Rousseau rievocherà, in brani celebri dell'opera autobiografica, i ricordi felici
+                                    legati a Bossey e alla vita in campagna, ma anche l'amara esperienza della prima
+                                    ingiustizia subita . Di ritorno a Ginevra è apprendista presso un incisore che lo
+                                    tratta con brutalità. A sedici anni fugge in Savoia, dove conosce Madame de Warens,
+                                    cui sarà profondamente legato e che avrà per lui la stessa importanza di Beatrice
+                                    per Dante. Mme de Warens lo ospita ad intervalli per circa 12 anni, prima ad Annecy
+                                    poi a Le Charmettes, nei pressi di Chambéry e lo persuade a convertirsi al
+                                    cattolicesimo. La sua fede non sembra convinta, ciononostante si reca a Torino
+                                    all'ospizio dei catecumeni, ritornando poi dalla sua protettrice in Savoia, dopo un
+                                    periodo di vagabondaggi in cui studia appassionatamente la musica, lavora come
+                                    lacché da Mme de Vercellis e poi presso il conte di Govone.</p>
                             </div>
                         </div>
 
-                        <h2>Lo spirito satirico</h2>
+                        <h2>Da Parigi a Montmorency</h2>
                         <div class="article-preview p-3">
-                            <p class="p-3">Nella casa di Temple conobbe Esther Johnson, una giovane donna,
-                                che Swift chiamò "Stella" e che avrebbe ispirato più tardi uno dei suoi scritti.
-                                Tra il 1708 e il 1714 fu soprattutto a Londra dove conobbe Pope, e Gay (John Gay
-                                (1685-1732) è scrittore e polemista di grande talento, scrisse satire e parodie
-                                dei generi poetici alla moda; ma il suo capolavoro è considerato L'opera del
-                                mendicante (1728), in cui, parodiando il melodramma, dà una rappresentazione
-                                della vita dei poveri e degli emarginati nei bassifondi londinesi. E' a
-                                quest'opera che si ispirerà B. Brecht nella sua Opera da tre soldi) con cui
-                                fondò lo Scriblerus Club un celebre circolo letterario londinese nel cui ambito
-                                nacquero le satire collettive, e le maggiori opere satiriche del periodo
-                                cosiddetto “augusteo” –dai Viaggi di Gulliver, all’ Opera del mendicante, a
-                                Dunciade di Pope- e dove esercitò il suo talento di severo polemista. Alla morte
-                                della regina Anna, il Club si sciolse, ma lo spirito satirico sopravvisse nelle
-                                opere successive dei suoi membri. Come molti letterati del periodo fu impegnato
-                                nella battaglia politica tra Whigs e Tories. Dapprima fu sostenitore dei Whigs,
-                                ma nel 1710, in parte deluso nelle sue aspettative di carriera politica, in
-                                parte disgustato da certe scelte del partito, passò ai Tories, che sostennero il
-                                suo impegno in favore della Chiesa Irlandese Anglicana. Scrisse molto per
-                                l'amministrazione Tory in questi anni, attaccando dalle pagine del giornale "The
-                                Examiner", che egli stesso dirigeva, la reputazione di molti ministri Whig. La
-                                chiarezza e la violenza con cui formulò le critiche contribuì enormemente a
-                                rafforzare l'adesione dell'opinione pubblica ai Tories.
+                            <p class="p-3">Nel 1742 si stabilisce a Parigi, entra in contatto con l'ambiente
+                                letterario, collabora all'Enciclopedia per la quale redige, oltre alle voci di argomento
+                                musicale, la voce Economia politica (1755). E', per un breve periodo, segretario del
+                                conte di Montaigu, ambasciatore francese a Venezia, torna in Francia nel 1744. Qui ha
+                                inizio il legame con una domestica, Thérèse Levasseur, con cui vive tutta la vita e che
+                                gli dà dei figli, tutti lasciati in orfanotrofio, per via delle precarie condizioni
+                                economiche della famiglia. Nel 1750 e nel 1754 acquista un'improvvisa notorietà con due
+                                importanti scritti: il Discorso sulle scienze e le arti e il Discorso sull'origine e i
+                                fondamenti della diseguaglianza tra gli uomini. Con il primo Discorso vince un concorso
+                                bandito dall'Accademia di Digione. ll Discorso successivo gli attira i primi sospetti
+                                delle autorità politiche e governative. Entra in polemica con Voltaire, cui indirizza la
+                                Lettera sulla Provvidenza (1756), per manifestargli il suo dissenso verso la dottrina
+                                pessimistica espressa da Voltaire in un poema del 1755, sul terremoto di Lisbona, rompe
+                                con Diderot e gli altri enciclopedisti. Viene ospitato a Montmorency, a nord di Parigi.
+                                Qui scrive le grandi opere: La Lettera a d'Alembert sugli spettacoli (1758), il romanzo
+                                Giulia, o la nuova Eloisa (1761), il trattato pedagogico Emilio o Dell'educazione
+                                (1762), il saggio politico Il contratto sociale (1762). Emilio incorre nella condanna
+                                dell'autorità politica ed ecclesiastica e Rousseau rischia di essere arrestato. Si
+                                rifugia a Ginevra, ma anche qui viene perseguitato dalle autorità di Ginevra e di Berna,
+                                trova scampo a Motiers, presso Neuchâtel. Qui conosce Boswell, amico e biografo di David
+                                Hume*. Dopo un breve periodo passato all'isola di Saint-Pierre, suggestivamente
+                                rievocato nell'opera autobiografica, è proprio grazie ad Hume che trova asilo in
+                                Inghilterra. Il governo inglese gli assegna una rendita, ma Rousseau, scosso da una
+                                sensibilità sempre più labile, malato, si allontana anche da Hume.
+                                Torna in Francia, si rifiuta di attingere alla rendita inglese e riprende a mantenersi,
+                                come del resto aveva fatto sempre, copiando musica. Muore ad Ermenonville. Saranno
+                                pubblicate postume, fra il 1782 eil 1789, le grandi opere autobiografiche cui attese
+                                negli ultimi anni di esistenza: Le Confessioni, in cui è trattata la sua vita fino al
+                                1766, completate da tre dialoghi supplementari raccolti in Jean-Jacques giudice di
+                                Rousseau e Le fantasticherie del passeggiatore solitario.
                             </p>
-                            <h2>Il ritorno in Irlanda</h2>
-                            <div class="article-preview p-3">
-                                <p class="p-3">Nell'aprile del 1713 divenne Decano della cattedrale di S.
-                                    Patrick a Dublino, dove rimase per i successivi trent'anni. Benché il
-                                    carattere aspro e misantropo lo portasse spesso a detestare anche coloro che
-                                    difendeva, assunse decise posizioni politiche in difesa degli Irlandesi
-                                    contro le vessazioni e gli abusi dell'amministrazione inglese . A seguito
-                                    della morte di "Stella" e di Esther Vanhomriger, un'altra donna importante
-                                    nella vita dello scrittore, adombrata nella sua opera sotto il nome di
-                                    "Vanessa", Swift cadde in uno stato di profonda malinconia, l'abbandono e il
-                                    senso d'isolamento crebbero in lui a tal punto da condurlo alla follia.
-                                </p>
-
-
-
-
-                            </div>
 
                         </div>
                     </div>
@@ -89,118 +86,174 @@
                     <div class="my-5 p-3">
                         <h2>L'Opera</h2>
                         <div class="article-preview p-3">
-                            <h3>La battaglia dei libri 1697</h3>
-                            <p class="p-3">È una satira in prosa in cui, descrivendo la battaglia, all'interno di una
-                                biblioteca, tra libri antichi e moderni, terminata con la vittoria dei primi, Swift
-                                interviene a favore degli scrittori antichi in una celebre controversia del tempo, che
-                                aveva opposto gli scrittori antichi ai moderni, suscitando in Europa vivaci discussioni
-                                (Iniziata nel Seicento e protrattasi per tutto il secolo seguente, la controversia passò
-                                alla storia con la definizione francese di "Querelle des Anciens et des Modernes", e
-                                oppose gli autori che sostenevano l'idea di progresso e quindi la superiorità degli
-                                scrittori moderni sugli antichi, a coloro che ritenevano che gli antichi avessero
-                                raggiunto i massimi vertici in ogni campo del sapere e fossero per questo insuperabili).
+
+                            <p class="p-3">Seppur legato all'illuminismo e ai philosophes*, Rousseau non è in
+                                sintonia con alcune idee del movimento. Condivide con i philosophes l'odio per
+                                l'oppressione e l'intolleranza, e le battaglie per diffondere l'istruzione e i diritti,
+                                ma il suo pensiero si discosta per più di un aspetto dal pensiero dei lumi, di cui
+                                rappresenta ad un tempo la revisione critica ed il superamento. Alla filosofia
+                                materialistica e sensistica, egli oppone una filosofia basata sul culto del sentimento e
+                                della sensibilità , all'enfatizzazione del progresso, della scienza e della ragione un
+                                esame critico degli esiti del progresso, dei limiti della scienza, al discorso ateo sul
+                                rapporto tra uomo e cosmo, la religione naturale e un senso provvidenzialistico
+                                dell'umana esistenza. Al centro della sua opera è il problema dell'essere umano nel suo
+                                rapporto con la natura e nel loro reciproco rapporto con la civiltà e l'ordine sociale.
                             </p>
                         </div>
-                        <h3>Favola della botte 1704</h3>
+                        <h3>Discorso sulle scienze e le arti 1750</h3>
                         <div class="article-preview p-3">
-                            <p class="p-3">È una satira delle varie chiese cristiane, tutte colpevoli,
-                                secondo Swift, di distorsioni del messaggio evangelico, dove sono rappresentati
-                                in forma allegorica gli errori delle chiese Protestante, Cattolica e
-                                Presbiteriana. Quest’opera precluse a Swift la strada del vescovado perché
-                                suscitò il risentimento della Regina Anna, che considerò una provocazione
-                                inaccettabile che fosse messa in ridicolo in modo impietoso la Chiesa Anglicana
-                                con le sue varie filiazioni.
+                            <p class="p-3">Questo breve saggio è la risposta di Rousseau ad un quesito posto
+                                dall'Accademia di Digione : "Se il rinascimento delle scienze e delle arti abbia
+                                contribuito a migliorare i costumi". Rievocando a posteriori la genesi di questo primo
+                                Discorso, Rousseau racconta il primo momento di ispirazione, alla lettura del bando di
+                                concorso: "avrei posto in rilievo tutte le contraddizioni del sistema sociale, con quale
+                                forza avrei descritto tutti gli abusi delle istituzioni, con quale semplicità avrei
+                                dimostrato che l'uomo è naturalmente buono e che soltanto a causa delle istituzioni gli
+                                uomini diventano malvagi"(lettera a Malesherbes, 12 gennaio 1762). Contrapponendosi
+                                all'ottimismo generale del suo secolo e alla fiducia nei benefici effetti del progresso
+                                degli studi, delle scienze e delle arti, Rousseau risponde negativamente a tale
+                                questione, dimostrando come le scienze e le arti, sancendo l'allontanamento dell'uomo
+                                dallo stato di natura, non siano mezzi di illuminazione, per combattere le tenebre
+                                dell'ignoranza, ma strumenti di occultamento della verità. Il presunto progresso
+                                tecnico-scientifico e l'avanzare delle conoscenze mascherano l'ingiustizia, stendendo "
+                                ghirlande di fiori sulle catene di ferro" di cui gli uomini sono carichi e, "soffocando
+                                in loro il sentimento di quella libertà originaria per la quale sembravan nati, fan loro
+                                amare la loro schiavitù". Le scienze e le arti hanno la loro origine nel vizio, e non
+                                nella virtù (l'astronomia nasce dalla superstizione, l'eloquenza dall'ambizione, la
+                                fisica dalla vana curiosità), e sono fonti di mille traviamenti. Esse si occupano di ciò
+                                che non è essenziale all'uomo, conducendolo a trascurare la forza del corpo e la forza
+                                morale, alimentandone l'amore per l'ozio e per la vanagloria. Le scienze e le arti
+                                condividono la loro genesi con il lusso, quest'ultimo procede raramente senza quelle,
+                                provocando la dissoluzione dei costumi e la corruzione della virtù. L'amore del fasto
+                                non può associarsi nell'animo a quello dell'onesto, e quindi non è possibile che spiriti
+                                degradati da una quantità di cure futili si elevino mai a nulla di grande, prediligendo
+                                essi la frivolezza, la pusillanimità che nascono dagli agi, al vigore forte e robusto
+                                che esercita il coraggio nella rude difficoltà. Da ciò non è tuttavia possibile
+                                concludere che Rousseau voglia condurre l'umanità allo stato primitivo. Egli ritiene
+                                infatti che allo stadio attuale dello sviluppo delle società, le scienze, le lettere e
+                                le arti siano diventate indispensabili: "Lasciamo dunque che le scienze e le arti
+                                addolciscano in qualche modo la ferocità degli uomini che hanno corrotto", scrive nella
+                                Risposta al re Stanislas, una delle numerose puntualizzazioni che Rousseau elabora per
+                                rispondere alle molteplici confutazioni suscitate da questo suo scritto.Il rimedio è nel
+                                male, preciserà nel Manoscritto di Ginevra, cioè nella prima provvisoria redazione del
+                                Contratto sociale: "Sforziamoci di trarre dallo stesso male il rimedio che deve
+                                guarirlo".
                             </p>
                         </div>
-                        <h3>Diario per Stella 1710-13</h3>
+                        <h3>Discorso sull'origine e i fondamenti della diseguaglianza fra gli uomini 1754</h3>
                         <div class="article-preview p-3">
-                            <p class="p-3">L'opera riunisce le lettere scritte a Esther Johnson, compagna
-                                devota e fedele, con la quale pare che Swift avesse contratto un matrimonio
-                                segreto, con l'impegno per entrambi di continuare a vivere in case diverse.
+                            <p class="p-3">Un nuovo concorso bandito dall'Accademia di Digione (1753), sul tema:
+                                "Qual è l'origine della disuguaglianza fra gli uomini e se essa è autorizzata dalla
+                                legge naturale" sollecita nuovamente l'intervento pubblico di Rousseau. La sua tesi è
+                                chiara: la disuguaglianza economica, lo sfruttamento, l'ingiustizia, l'oppressione sono
+                                i veri mali della società. Occorre ricercarne le cause, occorre dimostrare che le cause
+                                di tutti questi "vizi" non sono naturali, in quanto essi "non appartengono tanto
+                                all'uomo quanto all'uomo mal governato" (Prefazione al Narciso, 1753). Partendo da
+                                questi presupposti, Rousseau propone una nuova lettura della storia della specie umana,
+                                attribuendo l'origine del male non all'uomo naturale, ma all'uomo socializzato, non allo
+                                stato di natura, ma alla società. "Il problema del male è così trasformato in un
+                                problema politico: la società è il nuovo soggetto di imputabilità morale individuato da
+                                Rousseau. Anche il problema della redenzione del male, allora, troverà nella politica il
+                                terreno della sua soluzione." La prefazione del saggio delinea il concetto di stato di
+                                natura che è centrale nel pensiero roussoviano. Si tratta di risalire alla natura
+                                originaria dell'uomo, anche se questa è celata sotto gli strati della storia, i millenni
+                                di civiltà e di vita collettiva. La vera essenza dell'uomo, i suoi tratti originari sono
+                                da ricercarsi sotto la maschera dell'uomo artificiale (l'homme de l'homme). L'errore
+                                metodologico di coloro che in precedenza hanno parlato dello stato di natura e in
+                                particolare del filosofo inglese Hobbes, secondo Rousseau, consiste nell'aver dato di
+                                questo problema una soluzione distorta, semplicemente proiettando nelle loro concezioni
+                                dell'uomo naturale, le caratteristiche e i vizi tipici dell'uomo civilizzato: "Hanno
+                                trasportato nello stato di natura idee prese nella società. Parlavano dell'uomo
+                                selvaggio e dipingevano l'uomo civile". Per ricostruire la vera storia dell'uomo occorre
+                                dunque, secondo Rousseau, fissare lo sguardo direttamente nell'anima umana,
+                                nell'interiorità, cercando quelle tracce che la natura offre e che non sono ancora state
+                                cancellate dalla civiltà. Lo stato di natura va dunque inteso non tanto come la
+                                nostalgia di un'età dell'oro o come il desiderio di un impossibile ritorno dell'umanità
+                                alle suo origini, ma come un'ipotesi di lavoro, utile a mostrare il divario tra uomo
+                                naturale e uomo civilizzato, tra bisogni naturali e bisogni indotti, e a valutare
+                                l'infelicità che deriva all'uomo stesso dall'artificiosa esistenza sociale.
                             </p>
                         </div>
-                        <h3>Viaggi di Gulliver 1726</h3>
+                        <h3>Del contratto sociale 1762</h3>
                         <div class="article-preview p-3">
-                            <p class="p-3">Lemuel Gulliver, medico di bordo della flotta mercantile britannica,
-                                racconta le sue esperienze ed avventure di viaggio. Dopo un naufragio approda sull'isola
-                                di Lilliput, i cui abitanti sono alti meno di sei pollici, vede la realtà da una
-                                posizione di superiorità, ma viene gradualmente coinvolto negli intrighi di corte ed
-                                alla fine è costretto ad aiutare la popolazione in una guerra contro l'isola nemica di
-                                Blefuscu. Riparte, ma viene abbandonato dai compagni sull'isola di Brobdinag, abitata da
-                                giganti: questa volta l'eroe si trova in una posizione d'inferiorità. Catturato, è
-                                trattato come un cucciolo dai bambini. Ha poi occasione di conversare con il re, che
-                                indaga sugli usi, i governi e la cultura dell'Europa. Gulliver visita poi l'isola
-                                volante di Laputa e la sua capitale Lagado, dove incontra filosofi, storici e
-                                scienziati, che passano la vita tra speculazioni e ricerche assurde, senza raggiungere
-                                nessun risultato pratico. Gli abitanti dell'isola volante sono esseri astratti, pazzi,
-                                crudeli e tristi. La loro ricerca e l'ossessione per la scienza li estranea dal mondo
-                                reale. Gulliver affronta infine l'ultimo viaggio nel paese degli Houyhnhnm, cavalli
-                                intelligenti che si comportano in modo ragionevole, serviti dagli Yahoo, esseri
-                                disgustosi e violenti, simili agli uomini, che agiscono per puro istinto. Pertanto, dopo
-                                un certo tempo, Gulliver cerca di imitare sempre di più i cavalli. Uno dei cavalli
-                                allibisce alla descrizione del suo paese d'origine, l'Inghilterra, degli stratagemmi e
-                                delle menzogne per conquistare il potere, del racconto di battaglie, saccheggi e
-                                massacri, mentre lì, nel paese degli Houyhnhnm, non c'è bisogno di corrompere o adulare,
-                                non ci sono ladri o politicanti, non ci sono seguaci di questo o quel partito.La
-                                delusione provata di fronte al genere umano, rappresentato dagli Yahoo, lo conduce alla
-                                pazzia. I cavalli, d'altra parte, il cui livello di razionalità sembra escludere ogni
-                                capacità di sentimento, non possono soccorrerlo. Ritornato in patria, Gulliver non
-                                riesce a sopportare la compagnia degli esseri umani, che considera rivoltanti e
-                                nauseanti. Decide perciò di vivere nella stalla, tra i nobili animali, che gli ricordano
-                                la vita presso gli Houyhnhnm.
-                                Il romanzo, diviso in quattro parti, si presenta come una lucida satira dei
-                                comportamenti umani, dove avventure fantastiche e paradossi grotteschi vengono trattati
-                                con uno stile sobrio, di classica semplicità, in netto contrasto con l'apparente
-                                bizzarria di cose e situazioni. Proprio la coerenza stilistica, che collega le
-                                esperienze più assurde ad intenzioni “scientifiche”, divulgare le conoscenze che si
-                                possono trarre da un viaggio, suscita nel lettore il sospetto che le assurdità descritte
-                                alludano simbolicamente a concrete realtà sociali.
-                                Valendosi dello schema dei racconti di viaggio che, da oltre un secolo, appassionavano
-                                il pubblico, l'autore critica le istituzioni, le strutture politiche, intellettuali e
-                                morali di una società vuota e corrotta. Inoltre, gli spostamenti di Lemuel Gulliver da
-                                un continente all'altro lo obbligano a riflettere sulla sua presunta centralità rispetto
-                                agli altri esseri viventi: col cambiare delle dimensioni dei mondi che egli percorre,
-                                cambia la proporzione tra i fatti e quindi il giudizio sui fatti stessi. L'umanità,
-                                fatta di lilliputziani o di giganti, è sempre ridicola e abietta nell'orgoglio e nella
-                                vanità che manifesta. L'uso mistificatorio della ragione, una scienza cieca e dogmatica
-                                nelle sue inutili, ma presuntuose scoperte portano a nefaste avventure società
-                                litigiose, rette da potenti corrotti e violenti. Swift allinea uno dopo l'altro i
-                                bersagli della critica. Il pessimismo dello scrittore s'incupisce, senza mai abbandonare
-                                il tono satirico-grottesco della narrazione.
+                            <p class="p-3">"L'uomo è nato libero, e dappertutto è in catene. Quegli, che si crede
+                                padrone degli altri, non è mai meno schiavo di essi", il celeberrimo incipit del
+                                trattato pone in sintesi il problema che fonda il pensiero politico di Rousseau.
+                                Cercando una forma di convivenza in cui si concilino autorità dello stato e libertà dei
+                                singoli, Rousseau respinge come illegittima qualsiasi autorità politica che si fondi sul
+                                diritto divino, sulla legge del più forte, sull'autorità del padre, sul diritto di
+                                conquista. Riprendendo le teorie contrattualistiche (nullum imperium sine pacto) di
+                                Hobbes e di Locke, seppur in modo fortemente innovativo, egli affida la fondazione della
+                                comunità politica al consenso espresso da un patto. Escludendo il pactum subiectionis
+                                (cessione ad altri - al sovrano, per esempio - della libertà di cui l'individuo gode per
+                                natura), egli ammette il pactum unionis in virtù del quale ciascun individuo aliena il
+                                proprio potere individuale alla comunità, che altro non è che l'insieme degli individui
+                                che hanno liberamente deciso di associarsi.
                             </p>
                         </div>
-                        <h3>Modest Proposal 1729 (Modesta proposta per impedire che i bimbi dei poveri siano di peso ai
-                            loro genitori)</h3>
+                        <h3>Giulia o la Nuova Eloisa 1761</h3>
                         <div class="article-preview p-3">
-                            <p class="p-3">Ispirato dalle terribili condizioni che l'autore trovò in Irlanda, quando
-                                vi fece il suo ultimo viaggio nel 1727, questo pamphlet mette in luce l'ipocrisia e la
-                                crudeltà dei politici e delle loro "proposte". Sotto accusa è l'atteggiamento degli
-                                Inglesi verso l'Irlanda, la cui storia, fatta di invasioni, oppressione e di continua
-                                negazione dei diritti più elementari, costituisce una realtà di cui Swift, essendo di
-                                origine irlandese, è drammaticamente consapevole.
-                                La modesta, provocatoria proposta, suggerisce i modi per eliminare il problema della
-                                povertà e della fame, dando da mangiare ai ricchi i bambini dei poveri. Il tono è serio,
-                                l'argomentazione rigorosa e incalzante. Nessun sentimento d'orrore trapela da quella
-                                maschera da filantropo di buon senso con cui Swift tratta il suo soggetto nella finzione
-                                satirica: la miseria è una piaga sociale che deve essere sanata. Ingrassando i bambini
-                                poveri si potrebbe ottenere un'ottima, tenerissima carne, un piatto saporito e
-                                nutriente, davvero apprezzabile anche per gli amici di gusti difficili. L'autore dà
-                                ricette per cucinare la carne umana, ne indica i prezzi sul mercato, suggerisce i metodi
-                                migliori per ingrassare i bambini. L'allegoria macabra, come già in Gulliver , lascia
-                                trapelare il sospetto che "la modesta proposta" voglia indicare i risultati reali,
-                                drammaticamente concreti, cui la mancanza di politiche sociali, o peggio, certe misure
-                                prese dai governi possono davvero condurre. Abbandonando quasi il tono scherzoso che gli
-                                è abituale, Swift affaccia infine suggerimenti di altro piglio: la tassazione degli
-                                Inglesi, che sfruttano le proprietà irlandesi, l'incentivazione dell'industria e delle
-                                esportazioni in Irlanda.
-
-                            </p>
-
-
-
-
+                            <p class="p-3">Romanzo epistolare, nella tradizione iniziata in Inghilterra da
+                                Richardson, La Nuova Eloisa richiama, nel titolo, personaggi del secolo XI: Eloisa e il
+                                suo maestro, il teologo Abelardo. Affidando la trama alle lettere che più personaggi si
+                                scambiano, Rousseau riscrive la storia di un idillio appassionato che lega Giulia, una
+                                giovane di famiglia aristocratica, al suo precettore Saint-Preux, costretto, dati i suoi
+                                natali plebei, ad allontanarsi da Giulia. Questa sposerà un aristocratico, il signore di
+                                Wolmar, uomo di cultura ed illuminista filantropo, cui Giulia dedicherà ogni cura e ogni
+                                dedizione, senza tuttavia poter comandare al cuore e ai moti della natura che la
+                                legheranno per sempre a Saint-Preux. Nella comunità ideale creata da Wolmar a Clarens,
+                                utopia illuministica di una società razionale e felice, Giulia feconda la ragione del
+                                suo sposo con la fede e la sensibilità, contribuendo alla vita armonica di tutti.
+                                L'esaltazione della sua virtù si accompagna alla riscoperta della natura in senso lato,
+                                essa infatti è parte integrante dei sentimenti che nutre e sostiene. Misteriose
+                                corrispondenze uniscono il paesaggio naturale ai sentimenti.</p>
                         </div>
 
+                        <h3>Le Confessioni e l'opera autobiografica 1782 e 1789</h3>
+                        <div class="article-preview p-3">
+                            <p class="p-3">L'opera autobiografica di Rousseau apre in Francia la stagione di
+                                un'intensa e sofferta meditazione sull'io interiore, ispirando gran parte della
+                                scrittura autobiografica europea tra il XIX e il XX secolo. Rousseau si dà un compito:
+                                la ricerca della verità della propria natura, affermando il valore che ha la conoscenza
+                                di sé, in un mondo dominato dal divario tra essere e apparire. Data l'opacità e
+                                l'artificiosità che caratterizzano le relazioni tra gli individui e di ogni individuo
+                                con se stesso, la trasparenza del cuore, la sincerità, non sono un dato di fatto, ma la
+                                meta di un percorso esemplare da compiere.</p>
+                        </div>
+                        <h3>Le fantasticherie del passeggiatore solitario 1782</h3>
+                        <div class="article-preview p-3">
+                            <p class="p-3">Le fantasticherie (in francese rêveries) nascono da appunti sparsi che
+                                Rousseau stilava nel corso di lunghe passeggiate solitarie, meditando sulla natura,
+                                sulla società, sul rapporto tra sé e gli altri. Giunto al termine della vita, Rousseau
+                                rievoca il proprio passato, resuscitandone sensazioni e sentimenti. Anche i problemi
+                                sociali sono rielaborati attraverso la risonanza sensibile che hanno suscitato nella sua
+                                coscienza.</p>
+                        </div>
+                        <h3>Emilio 1762</h3>
+                        <div class="article-preview p-3">
+                            <p class="p-3">In questo romanzo pedagogico Rousseau opera una revisione critica dei
+                                metodi educativi contemporanei, mirando alla formazione dell'individuo alla moralità e
+                                alla libertà. Due aspetti complementari in un disegno unitario poiché, secondo Rousseau:
+                                "quelli che vorranno trattare separatamente la politica e la morale non capiranno mai
+                                nulla di nessuna delle due". Sotto la guida sicura di un pedagogo illuminato e
+                                sensibile, Emilio percorre le tappe di un'educazione ideale. La felicità, che comporta
+                                un animo ben temprato, insieme allo sviluppo armonico di tutte le facoltà dell'essere
+                                umano, è il grande tema che percorre tutto il testo. Essa è considerata come il fine di
+                                ogni essere sensibile e come "il primo desiderio che la natura ha impresso in noi e il
+                                solo che non ci abbandona mai". Occorre che Emilio impari a sopportare pazientemente la
+                                miseria, le avversità, la legge della necessità, ma dovrà a poco a poco imparare altresì
+                                a difendersi dai mali dell'anima, dalle smodate passioni, ad imporre una legge agli
+                                appetiti del cuore." Il pedagogo gli insegnerà a dipendere solo dalla condizione umana e
+                                non da tutte le affezioni alle quali l'essere umano si consegna: imparando a desiderare,
+                                ci si rende spesso schiavi dei propri desideri. Il desiderio rivela quindi la sua natura
+                                ambigua di pulsione vitale ed insieme di passione distruttiva, occorre tenere in
+                                equilibrio le facoltà naturali ed i bisogni: "I nostri desideri sono vasti, la nostra
+                                forza quasi nulla". Nel libro IV dell'Emilio, si esprime l'ideale etico-religioso
+                                dell'educazione, nella celebre Professione di fede del vicario savoiardo, quasi un libro
+                                nel libro, dove Rousseau fa esporre la propria concezione della fede e della religione
+                                da un umile vicario, capace di far sentire ad Emilio l'ordine del creato e la volontà, o
+                                "intelligenza" che anima l'universo e muove la natura. </p>
+                        </div>
                     </div>
                 </div>
             </div>
